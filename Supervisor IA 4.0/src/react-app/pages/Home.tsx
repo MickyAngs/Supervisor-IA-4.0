@@ -6,6 +6,8 @@ import DashboardView from '@/react-app/components/views/DashboardView';
 import BIMView from '@/react-app/components/views/BIMView';
 import AuditoriaView from '@/react-app/components/views/AuditoriaView';
 import ReportesView from '@/react-app/components/views/ReportesView';
+import CerebroLegalView from '@/react-app/components/views/CerebroLegalView';
+import IngestaView from '@/react-app/components/views/IngestaView';
 
 export default function HomePage() {
   const [activeView, setActiveView] = useState('dashboard');
@@ -14,12 +16,16 @@ export default function HomePage() {
     switch (activeView) {
       case 'dashboard':
         return <DashboardView />;
+      case 'ingesta':
+        return <IngestaView />;
       case 'bim':
         return <BIMView />;
       case 'auditoria':
         return <AuditoriaView />;
       case 'reportes':
         return <ReportesView />;
+      case 'cerebro':
+        return <CerebroLegalView />;
       default:
         return <DashboardView />;
     }
@@ -29,12 +35,16 @@ export default function HomePage() {
     switch (activeView) {
       case 'dashboard':
         return 'Dashboard General';
+      case 'ingesta':
+        return 'Ingesta de Verdad de Campo';
       case 'bim':
         return 'Modelo BIM 360';
       case 'auditoria':
         return 'Auditoría Visual con IA';
       case 'reportes':
         return 'Reportes del Proyecto';
+      case 'cerebro':
+        return 'Cerebro Legal Técnico';
       default:
         return 'Dashboard General';
     }
@@ -43,7 +53,7 @@ export default function HomePage() {
   return (
     <div className="flex min-h-screen bg-slate-deep cad-pattern">
       <Sidebar activeView={activeView} onViewChange={setActiveView} />
-      
+
       <main className="flex-1 flex flex-col overflow-hidden">
         {/* Header */}
         <header className="border-b border-gray-800 bg-slate-deep/80 backdrop-blur-sm">

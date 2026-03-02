@@ -1,8 +1,10 @@
-import { 
-  LayoutDashboard, 
-  Box, 
-  Camera, 
-  FileText
+import {
+  LayoutDashboard,
+  Box,
+  Camera,
+  FileText,
+  Brain,
+  Upload
 } from 'lucide-react';
 
 interface MenuItem {
@@ -13,8 +15,10 @@ interface MenuItem {
 
 const menuItems: MenuItem[] = [
   { icon: LayoutDashboard, label: 'Dashboard', id: 'dashboard' },
+  { icon: Upload, label: 'Ingesta de Datos', id: 'ingesta' },
   { icon: Box, label: 'Modelo BIM', id: 'bim' },
   { icon: Camera, label: 'Auditoría Visual', id: 'auditoria' },
+  { icon: Brain, label: 'Cerebro Legal', id: 'cerebro' },
   { icon: FileText, label: 'Reportes', id: 'reportes' },
 ];
 
@@ -33,8 +37,8 @@ export default function Sidebar({ activeView, onViewChange }: SidebarProps) {
             <div className="w-6 h-6 border-2 border-white rotate-45" />
           </div>
           <div>
-            <h1 className="text-lg font-bold text-white">Supervisor.AI</h1>
-            <p className="text-xs text-cyan-electric font-mono tracking-wider">v4.0</p>
+            <h1 className="text-lg font-bold text-white">Supervisor IA</h1>
+            <p className="text-xs text-cyan-electric font-mono tracking-wider">4.0</p>
           </div>
         </div>
       </div>
@@ -45,11 +49,10 @@ export default function Sidebar({ activeView, onViewChange }: SidebarProps) {
           <button
             key={item.id}
             onClick={() => onViewChange(item.id)}
-            className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all ${
-              activeView === item.id
-                ? 'bg-gradient-to-r from-orange-safety/20 to-cyan-electric/20 border border-orange-safety/30 text-white'
-                : 'text-gray-400 hover:text-white hover:bg-gray-800/50'
-            }`}
+            className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all ${activeView === item.id
+              ? 'bg-gradient-to-r from-orange-safety/20 to-cyan-electric/20 border border-orange-safety/30 text-white'
+              : 'text-gray-400 hover:text-white hover:bg-gray-800/50'
+              }`}
           >
             <item.icon size={20} />
             <span className="text-sm font-medium">{item.label}</span>

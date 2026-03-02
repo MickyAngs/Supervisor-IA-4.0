@@ -1,0 +1,1667 @@
+ 
+1/31 
+ 
+ 
+ 
+ 
+ 
+BASES 
+ 
+ 
+ 
+PROYECTOS DE  
+INVESTIGACIÓN APLICADA 
+ 
+ 
+ 
+ 
+Concurso E041-2026-02 
+ 
+Firmado digitalmente por REYES
+MATOS Ursula Fabiola FAU
+20135727394 soft
+Motivo: Soy el autor del documento
+Fecha: 30.10.2025 14:58:15 -05:00
+Firmado digitalmente por GUTIERREZ
+INGUNZA Ericson Leonardo FAU
+20135727394 soft
+Motivo: Soy el autor del documento
+Fecha: 30.10.2025 15:08:13 -05:00
+ 
+2/31 
+E041-2026-02 
+ 
+TABLA DE CONTENIDO 
+ 
+ 
+1. ASPECTOS GENERALES…………………………………………………………….. 
+3 
+1.1. 
+Bases del Concurso……………………………………………………………... 
+3 
+1.2. 
+Objetivo General…………………………………………………………………. 
+3 
+1.3. 
+Modalidades……………………………………………………………………….. 4 
+1.4. 
+Tipos de Proyectos………………………………………………………………... 5 
+1.5. 
+Características mínimas de la propuesta……………………………………….. 5 
+1.6. 
+Resultados Esperados……………………………………………………………. 7 
+2. CONDICIONES DEL CONCURSO…………………………………………………….. 10 
+2.1. 
+Prioridades del concurso…………………………………………………………. 10 
+2.2. 
+Público Objetivo…………………………………………………………………….11 
+2.3. 
+Conformación del equipo…………………………………………………………. 14 
+2.4. 
+Financiamiento…………………………………………………………………….. 21 
+3. POSTULACIÓN…………………………………………………………………………... 24 
+3.1. 
+Elegibilidad…………………………………………………………………………. 25 
+3.2. 
+Documentos de postulación……………………………………………………… 25 
+3.3. 
+Programación de Actividades……………………………………………………. 26 
+3.4. 
+Absolución de consultas………………………………………………………….. 27 
+4. EVALUACIÓN, SELECCIÓN Y RESULTADOS……………………………………… 28 
+4.1. 
+Contrato…………………………………………………………………………….. 28 
+5. SOPORTE, 
+SEGUIMIENTO 
+Y 
+EVALUACIÓN 
+Y 
+ASPECTOS 
+ADMINISTRATIVOS…………………………………………………………………….. 29 
+6. DISPOSICIONES FINALES…………………………………………………………….. 30 
+SIGLAS Y ACRÓNIMOS……………………………………………………………………. 31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3/31 
+E041-2026-02 
+1. ASPECTOS GENERALES 
+ 
+CONCYTEC es el organismo rector del Sistema Nacional de Ciencia, Tecnología e 
+Innovación (SINACTI), encargado de dirigir, fomentar, coordinar, supervisar y evaluar 
+las acciones del Estado en el ámbito de la ciencia, tecnología e innovación tecnológica. 
+ 
+El Programa Nacional de Investigación Científica y Estudios Avanzados - PROCIENCIA 
+tiene por objeto impulsar, incrementar y consolidar las capacidades en ciencia y 
+tecnología en el país, lo cual implica de manera no limitativa la investigación científica 
+en todas las disciplinas del saber, así como la formación de investigadores y 
+especialistas de alto nivel, el equipamiento de laboratorios y talleres de investigación, la 
+difusión de conocimientos, la transferencia tecnológica y la creación de cultura científica 
+y tecnológica. Esto para generar conocimiento que pueda ser aplicado en la economía, 
+el bienestar social y la sostenibilidad ambiental. 
+ 
+El presente concurso se origina en el Instrumento Financiero “Proyectos de 
+Investigación”, el cual fue aprobado con Resolución de Presidencia N° 113-2017-
+CONCYTEC-P de fecha 18 de setiembre de 2017 y modificado el 02 de diciembre de 
+2019 mediante Resolución de Presidencia N° 223-2019-CONCYTEC-P. 
+ 
+1.1. Bases del Concurso 
+1.1.1. Bases 
+Es el documento técnico normativo del concurso publicado por el Programa 
+PROCIENCIA. Las bases constituyen un documento de cumplimiento obligatorio que 
+rige para todo efecto legal durante las fases de postulación y evaluación del concurso; 
+y da las pautas generales para orientar la ejecución de los proyectos; siendo esta última 
+normada por la Guía que regula el soporte, seguimiento y evaluación técnico y financiero 
+para la ejecución de proyectos o programas subvencionados por PROCIENCIA. Cabe 
+señalar que los Anexos son parte integral de las presentes Bases y su 
+conocimiento y lectura son de carácter obligatorio. 
+ 
+1.1.2. Bases integradas 
+Es el documento técnico normativo definitivo, que resulta de las consultas y absolución 
+de las mismas que se consideran relevantes para el cumplimiento del objetivo del 
+presente concurso. Las Bases integradas se publican en el portal institucional del 
+Programa PROCIENCIA, en la fecha señalada en la sección 3.3 de las presentes bases. 
+En el caso de no presentarse consultas se mantendrán las Bases descritas en la sección 
+1.1.1 como las definitivas. 
+ 
+1.2. Objetivo General 
+Contribuir a la adquisición de nuevos conocimientos que respondan a la solución de 
+problemas o necesidades de los sectores productivos del país y de la sociedad en su 
+conjunto. 
+ 
+4/31 
+E041-2026-02 
+ 
+1.3. Modalidades  
+Los proyectos de investigación aplicada tendrán las siguientes modalidades: 
+ 
+Tabla N°. 1: Modalidades de Proyecto  
+Modalidad de 
+proyecto 
+Definición 
+Proyectos de 
+Investigación 
+Multidisciplinarios 
+Son propuestas de investigación aplicada lideradas por investigadores con 
+registro RENACYT, con objetivos y actividades multidisciplinarias, donde 
+participan de manera asociativa dos (02) o más grupos de investigación1 de dos o 
+más entidades del nivel de ejecución del SINACTI.  
+Asimismo, las propuestas de investigación deben guardar relación con al menos 
+una disciplina de las áreas de conocimiento OCDE (con excepción de ciencias 
+sociales y humanidades) y estar orientadas a algunas de las áreas estratégicas 
+priorizadas del presente concurso. Son proyectos de investigación aplicada de 
+carácter multidisciplinario, que integren diversas áreas del conocimiento para 
+abordar problemas complejos de alto impacto.  
+Estos proyectos pueden incluir actividades de desarrollo experimental o validación 
+tecnológica. Independientemente del nivel de TRL de inicio las propuestas deben 
+concluir en TRL 4 como mínimo. Cuando la naturaleza del proyecto no conlleve a 
+un prototipo ni prueba de concepto, se admitirán resultados en forma de activos 
+habilitadores, esto es, resultados técnicos intermedios que no conllevan a 
+prototipos y/o pruebas de concepto.  
+ 
+Nota: Debe contar con la participación de al menos una (01) Entidad 
+Asociada con domicilio fiscal registrado en la SUNAT en una región del Perú 
+distinta a la registrada en la SUNAT de la entidad solicitante. La entidad 
+asociada debe participar con su respectivo co-investigador. 
+Proyectos de 
+Investigación 
+Avanzados 
+Son propuestas de investigación aplicada lideradas por investigadores con 
+registro RENACYT, donde participan uno (01) o más grupos de investigación1 de 
+dos o más entidades del nivel de ejecución del SINACTI.  
+Asimismo, las propuestas de investigación deben guardar relación con al menos 
+una disciplina de las áreas de conocimiento OCDE (con excepción de ciencias 
+sociales y humanidades) y estar orientadas a algunas de las áreas estratégicas 
+priorizadas del presente concurso. Son proyectos de investigación aplicada 
+orientados al desarrollo experimental de tecnologías, procesos o metodologías, 
+basados en resultados previos comprobados.  
+Los proyectos pueden iniciar en TRL 2 o 3 y alcanzar, como mínimo, TRL 3 o 4 
+respectivamente. Cuando la naturaleza del proyecto no conlleve a un prototipo ni 
+prueba de concepto, se admitirán resultados en forma de activos habilitadores, 
+esto es, resultados técnicos intermedios que reducen la incertidumbre y habilitan 
+el avance hacia etapas de TRL superiores. 
+ 
+1 Un grupo de investigación está constituido por un conjunto de personas que conforman un equipo para realizar 
+investigación en un área de investigación determinada, que incluye una o más líneas de investigación. Fuente: Guía de 
+Grupos, Centros, Institutos y Redes de Investigación en Ciencia y Tecnología, 2020 Consejo Nacional de Ciencia, 
+Tecnología e Innovación Tecnológica – CONCYTEC. 
+ 
+5/31 
+E041-2026-02 
+Proyectos de 
+Investigación 
+Semilla 
+Son propuestas de investigación aplicada lideradas por investigadores que se 
+inician como responsable técnico de un (01) proyecto de investigación en el marco 
+de un grupo de investigación2 de al menos una entidad del nivel de ejecución del 
+SINACTI.  
+Asimismo, las propuestas de investigación deben guardar relación con al menos 
+una disciplina de las áreas de conocimiento OCDE (con excepción de ciencias 
+sociales y humanidades) y estar orientadas a algunas de las áreas estratégicas 
+priorizadas del presente concurso.  
+Son propuestas de proyectos de investigación aplicada en etapa temprana que 
+buscan generar, adaptar o validar conocimiento científico-tecnológico con 
+potencial de uso práctico, sin requerir maduración de TRL. Cuando la naturaleza 
+del proyecto no conlleve a un prototipo ni prueba de concepto, se admitirán 
+resultados en forma de activos habilitadores, esto es, resultados técnicos 
+intermedios que reducen la incertidumbre y habilitan el avance hacia etapas de 
+TRL superiores. 
+ 
+En atención a lo señalado en la Ley N° 27783, Ley de la Descentralización, el 
+Departamento de Lima está conformado de la siguiente manera a nivel de Gobierno 
+Regional: 
+ 
+- Gobierno Regional del departamento de Lima (conformada por las provincias de 
+Barranca, Cajatambo, Canta, Cañete, Huaral, Huarochirí, Huaura, Oyón y Yauyos).  
+- Gobierno Regional de la Provincia Constitucional del Callao (Tiene un régimen 
+especial que le da la calidad de región)  
+- Municipalidad Metropolitana de Lima (Tiene un régimen especial que le da la calidad 
+de región). 
+ 
+1.4. Tipos de Proyectos 
+- PROYECTOS DE INVESTIGACIÓN APLICADA3 
+Consiste en trabajos originales realizados para adquirir nuevos conocimientos; sin 
+embargo, está dirigida fundamentalmente hacia un objetivo o propósito específico 
+práctico. La investigación aplicada se emprende para determinar los posibles usos de 
+los resultados de la investigación básica, o para determinar nuevos métodos o formas 
+de alcanzar objetivos específicos predeterminados. Este tipo de investigación implica la 
+consideración de todo el conocimiento existente y su profundización, en un intento de 
+solucionar problemas específicos. 
+ 
+1.5. Características mínimas de la propuesta 
+La propuesta presentada deberá contar con un Nivel de Madurez Tecnológica 
+(Technology Readiness Levels) de TRL 2 de inicio, para lo cual deberá adjuntar la 
+ 
+2 Un grupo de investigación está constituido por un conjunto de personas que conforman un equipo para realizar 
+investigación en un área de investigación determinada, que incluye una o más líneas de investigación. Fuente: Guía de 
+Grupos, Centros, Institutos y Redes de Investigación en Ciencia y Tecnología, 2020 Consejo Nacional de Ciencia, 
+Tecnología e Innovación Tecnológica – CONCYTEC. 
+3 Manual de Frascati 2015: Directrices para la recogida y presentación de información sobre la investigación y el 
+desarrollo experimental. Organización para la Cooperación y el Desarrollo Económicos – OCDE, París. 
+ 
+6/31 
+E041-2026-02 
+evidencia que demuestre que la propuesta cuenta con las características descritas por 
+el nivel de TRL indicado a la fecha de cierre de la postulación. Por lo tanto, las 
+propuestas presentadas a la modalidad avanzados deberán iniciar con un TRL 2 o 3 y 
+alcanzar un nivel de TRL 3 o 4 respectivamente; mientras que las propuestas 
+presentadas a la modalidad multidisciplinarios deben alcanzar como mínimo un nivel de 
+TRL 4 al finalizar la ejecución. Asimismo, también se considerarán propuestas de 
+proyectos de investigación aplicada que aún sin culminar en prototipo o prueba de 
+concepto, generen conocimiento aplicado y que cumplan con los objetivos señalados, 
+indicando su ruta de uso y actores clave o beneficiarios.  
+ 
+El proyecto de I+D, desde su formulación hasta su cierre, debe seguir el método 
+científico y cumplir en simultáneo los cinco criterios básicos de proyectos I+D: novedoso, 
+creativo, incierto, sistemático y transferible y/o reproducible4. 
+ 
+La propuesta deberá incorporar el análisis de la novedad del proyecto5 respecto a 
+patentes, softwares y otras investigaciones realizadas, con excepción de aquellas 
+propuestas cuyo resultado no desarrolle un prototipo o prueba de concepto. 
+ 
+La propuesta deberá presentarse en castellano. Adicionalmente, podrá 
+presentarse de manera opcional en idioma inglés6.  
+ 
+La propuesta que involucre participantes humanos o animales, deberá incluir la solicitud, 
+constancia u otro documento que evidencie haber presentado la misma al Comité de 
+ética correspondiente. Asimismo, aquellas propuestas que realicen actividades de 
+investigación en zonas arqueológicas o que contemplen el uso o manejo de muestras o 
+especímenes protegidos o áreas silvestres; deberán evidenciar el inicio de las gestiones 
+para los permisos y/o autorizaciones respectivas según el marco normativo nacional 
+vigente, a través de la solicitud o el envío de la consulta a la Autoridad Nacional 
+correspondiente respecto a la necesidad o no de la autorización. 
+ 
+La propuesta deberá ser desarrollada principalmente en el Perú, pudiendo realizar 
+actividades específicas en el extranjero cuando éstas sean indispensables y 
+debidamente justificadas, asegurando que los resultados e impactos se materialicen en 
+el Perú.  
+ 
+Adicionalmente, la propuesta deberá detallar el impacto de tipo ambiental, social, 
+económico u otro que será generado por el proyecto de investigación e incorporar un 
+análisis de la relación entre los resultados esperados y los desafíos locales, regionales, 
+sectoriales o nacionales que se abordará(n) con el proyecto. Asimismo, deberá ir 
+acompañada de un Plan de Gestión de Datos, el cual se ajustará conforma avanza la 
+ 
+4 Manual de Frascati 2015: Directrices para la recogida y presentación de información sobre la investigación y el desarrollo 
+experimental. Organización para la Cooperación y el Desarrollo Económicos – OCDE, París. 
+5 El análisis de la novedad deberá contener la captura de pantalla de las búsquedas de términos que haya realizado en 
+las distintas bases de datos globales de patentes de acuerdo a lo indicado en el Tutorial: Análisis de la novedad 
+(https://youtu.be/f5mWGy1zmbw?si=9DCTm-iIDv1DAJNf). 
+6 La presentación de la propuesta en idioma inglés le brinda la oportunidad de acceder a un universo mayor de 
+evaluadores en la temática específica de su proyecto. 
+ 
+7/31 
+E041-2026-02 
+investigación, de acuerdo a lo establecido en la Guía del Plan de Gestión de Datos de 
+Investigación (Anexo 14).  
+ 
+El Plan de Gestión de Datos es un documento en el que se describe cómo serán 
+manipulados los datos en el transcurso del proyecto de investigación e incluso tras su 
+conclusión, describiendo qué datos serán recopilados, procesados o generados, qué 
+metodología y estándares se utilizarán, cómo se compartirán y serán abiertos, cómo 
+serán conservados y preservados que deberá ser actualizado a lo largo del desarrollo 
+de la investigación. Las versiones modificadas del mismo serán incorporadas al 
+Repositorio Institucional del CONCYTEC, de acuerdo a lo establecido en la Ley N° 
+30035 “Ley que regula el Repositorio Nacional Digital de Ciencia, Tecnología e 
+Innovación de Acceso Abierto”. 
+ 
+La postulación al presente concurso implica la lectura y entendimiento de las Bases, 
+Anexos, Cartillas de Elegibilidad y Evaluación, Guía de Soporte, Seguimiento y 
+Evaluación, y el Modelo de Contrato del concurso E041-2026-02 “Proyectos de 
+Investigación Aplicada”, por lo que, todo postulante que envía su postulación declara 
+estar de acuerdo con los términos y condiciones del concurso y se somete 
+íntegramente a lo expuesto en dichos documentos. 
+ 
+Las propuestas deberán contar con un video de 3 minutos de duración como máximo 
+en el cual se explique la investigación a ser desarrollada (YouTube, Vimeo u otro medio). 
+ 
+1.6. Resultados Esperados 
+Todos los resultados esperados deben estar incluidos en el Plan Operativo y ser 
+alcanzados al finalizar su ejecución.  
+ 
+Las postulaciones seleccionadas deberán alcanzar los siguientes resultados esperados 
+de acuerdo a la modalidad de postulación: 
+ 
+Tabla N° 2: Resultados esperados que deben ser alcanzados por los proyectos en la 
+Modalidad Semilla 
+Proyectos de Investigación Aplicada – Modalidad Semilla 
+a. Al menos un (01) artículo científico original7 aceptado para publicación en revistas 
+indizadas en Scopus o WoS (Colección principal: Science Citation Index Expanded) en 
+ 
+7 No se incluyen conference papers ni proceedings ni review articles o paper reviews o artículos de revisión: 
+- Conference papers: (Scopus Content Coverage Guide 2023), es un artículo original que reporta datos presentados en 
+una conferencia o simposio. Se caracterizan por ser cualquier longitud y por reportar datos de una conferencia. Los 
+documentos pueden variar de longitud y contenido, desde documentos completos y resúmenes de conferencias, hasta 
+artículos tan cortos como de una página. 
+- Proceedings: (Scopus Content Coverage Guide 2023), pueden publicarse como seriales o no seriales, y pueden 
+contener los artículos completos de los trabajos presentados o sólo los resúmenes de reuniones, conferencias, 
+simposios, seminarios, talleres, aunque algunas revistas también incluyen proceedings en el título. 
+- Reviews: (Scopus Content Coverage Guide 2023), revisión significativa de investigaciones originales, también incluye 
+ponencias de conferencias. Se caracterizan por tener una bibliografía extensa. Los artículos educativos que revisan 
+temas específicos dentro de la literatura también se consideran revisiones. Al no ser artículos originales, las revisiones 
+carecen de las secciones más típicas de los artículos originales, como materiales y métodos y resultados. 
+ 
+8/31 
+E041-2026-02 
+Q1 o Q2 o Q38 de Scimago Journal & Country Rank o JCR, respectivamente. El artículo 
+deberá estar basado en datos obtenidos por el proyecto financiado por el Programa 
+PROCIENCIA. 
+b. Al menos una (01) tesis de pregrado o postgrado sustentada y aprobada durante el 
+periodo de ejecución del proyecto, que conlleve a la obtención del título profesional o 
+grado académico en una universidad peruana licenciada por la SUNEDU. 
+Se verificará con el acta de sustentación y resultado aprobatorio. 
+c. Al menos una (01) ponencia o presentación de póster en congresos de alcance nacional 
+o internacional9. 
+d. Al menos una (01) conferencia de difusión de resultados para el público en general. 
+e. Un (01) Plan de continuidad tecnológica (Ver Anexo 11, A3) 
+f. Según el objetivo y características del proyecto de investigación, el responsable técnico 
+deberá elaborar los siguientes informes: 
+• 
+Un (01) informe de validación del TRL alcanzado, en caso su propuesta considere 
+avanzar al menos un nivel de TRL (Ver anexo 11, A1). 
+• 
+Un (01) informe de activo habilitador alcanzado, en caso su propuesta no genere un 
+prototipo o prueba de concepto (Ver Anexo 11, A2). 
+ 
+Mientras que, las postulaciones seleccionadas de la modalidad Avanzados deberán 
+alcanzar los siguientes resultados esperados: 
+ 
+Tabla N° 3: Resultados esperados que deben ser alcanzados por los proyectos en la 
+Modalidad Avanzados 
+Proyectos de Investigación Aplicada – Modalidad Avanzados 
+a. Al menos dos (02) artículos científicos originales3 aceptados para publicación o 
+publicados en revistas, preferentemente de acceso abierto, indizadas en Scopus o 
+WoS (Colección principal: Science Citation Index Expanded) en Q1 o Q2 o Q310 de 
+Scimago Journal & Country Rank o JCR, respectivamente. Los artículos científicos 
+originales deberán estar basados en datos obtenidos por el proyecto financiado por el 
+Programa PROCIENCIA. Al menos uno (01) de los artículos deberá ser aceptado para 
+publicación o publicado en Q1 o Q2 y el otro en Q1 o Q2 o Q3. 
+b. Al menos una (01) tesis de pregrado o postgrado (maestría o doctorado) sustentada y 
+aprobada durante el período de ejecución del proyecto, que conlleve a la obtención del 
+título profesional o grado académico en una universidad peruana licenciada por la 
+SUNEDU. 
+Se verificará con el acta de sustentación y resultado aprobatorio. 
+c. Al menos una (01) ponencia o presentación de póster en congresos de alcance 
+internacional9. 
+d. Al menos una (01) conferencia de difusión de resultados para el público en general. 
+ 
+8 Los cuartiles son de JOURNAL CITATION REPORTS (JCR) para Web of Science y ScimagoJR para SCOPUS. 
+9 No se aceptarán participaciones en simposios. 
+10 Los cuartiles son de JOURNAL CITATION REPORTS (JCR) para Web of Science y ScimagoJR para SCOPUS. 
+ 
+9/31 
+E041-2026-02 
+e. Un (01) plan de gestión y documentación de resultados, que consolida la información 
+científica, técnica y administrativa generada en el proyecto (Ver anexo N° 11, B3)) 
+g. Según el objetivo y características del proyecto de investigación, el responsable técnico 
+deberá elaborar los siguientes informes: 
+• 
+Un (01) informe de validación experimental (Ver anexo 11, B1). 
+• 
+Un (01) informe de plan de uso de resultados, en caso su propuesta no desarrolle 
+a un prototipo o prueba de concepto (Ver anexo N° 11, B2). 
+h. Una Búsqueda de Información Tecnológica (BIT) (Ver Anexo 13). No aplica para 
+aquellas propuestas que no desarrollen un prototipo o prueba de concepto. 
+i. Participación en al menos un (01) taller de Vinculación Academia-Industria-Gobierno o 
+Vinculatech, organizados por el CONCYTEC-PROCIENCIA. No aplica para aquellas 
+propuestas que no desarrollen un prototipo o prueba de concepto. 
+ 
+Finalmente, las postulaciones seleccionadas de la modalidad Multidisciplinarios deberán 
+alcanzar los siguientes resultados esperados. 
+ 
+Tabla N° 4: Resultados esperados que deben ser alcanzados por los proyectos en la 
+Modalidad Multidisciplinarios 
+Proyectos de Investigación Aplicada – Modalidad Multidisciplinarios 
+a. Al menos dos (02) artículos científicos originales11 publicados o aceptados para 
+publicación en revistas, preferentemente de acceso abierto, indizadas en Scopus o 
+WoS12 (Colección principal: Science Citation Index Expanded) en Q1 o Q2 de Scimago 
+Journal & Country Rank o JCR, respectivamente. Los artículos científicos originales 
+deberán estar basados en la data obtenida por el proyecto financiado por el Programa 
+PROCIENCIA.  
+b. Al menos dos (02) tesis (una de pregrado y una de postgrado maestría o doctorado) 
+sustentadas y aprobadas durante el período de ejecución del proyecto, que conlleven a 
+la obtención del título profesional y grado académico en universidades peruanas 
+licenciadas por la SUNEDU. 
+Se verificará con el acta de sustentación y resultado aprobatorio. 
+c. Al menos una (01) ponencia o presentación de póster en congresos de alcance 
+internacional13. 
+d. Al menos una (01) conferencia de difusión de resultados para el público en general. 
+e. Una (01) ficha tecnológica, orientada a la difusión y visibilización de los resultados a 
+través de la Plataforma Vincúlate (Ver anexo N° 11, C3).   
+ 
+11 No se incluyen conference papers ni proceedings: 
+- Conference papers: (Scopus Content Coverage Guide 2017), es un artículo original que reporta datos presentados en 
+una conferencia o simposio. Se caracterizan por ser cualquier longitud y por reportar datos de una conferencia. Los 
+documentos pueden variar de longitud y contenido, desde documentos completos y resúmenes de conferencias, hasta 
+artículos tan cortos como de una página. 
+- Proceedings: (Scopus Content Coverage Guide 2017), pueden publicarse como seriales o no seriales, y pueden 
+contener los artículos completos de los trabajos presentados o sólo los resúmenes de reuniones, conferencias, 
+simposios, seminarios, talleres, aunque algunas revistas también incluyen proceedings en el título. 
+12 Los cuartiles son de JOURNAL CITATION REPORTS (JCR) para Web of Science y ScimagoJR para SCOPUS. 
+13 No se aceptarán participaciones en simposios. 
+ 
+10/31 
+E041-2026-02 
+f. Según el objetivo y características del proyecto de investigación, el responsable técnico 
+deberá elaborar los siguientes informes: 
+• Un (01) paquete tecnológico inicial (Ver anexo N° 11, C1). 
+• Un (01) plan de uso y transferencia, en caso su propuesta no conlleve a un prototipo o 
+prueba de concepto (Ver anexo N° 11, C2).  
+g. Una Búsqueda de Información Tecnológica (BIT) (Ver Anexo 13). No aplica para 
+aquellas propuestas que no desarrollen un prototipo o prueba de concepto. 
+h. Un (01) Reporte de Viabilidad de Patente (RV) (Ver Anexo 12). No aplica para aquellas 
+propuestas que no desarrollen un prototipo o prueba de concepto. 
+i. Participación en al menos un (01) taller de Vinculación Academia-Industria-Gobierno o 
+Vinculatech, organizados por el CONCYTEC-PROCIENCIA. No aplica para aquellas 
+propuestas que no desarrollen un prototipo o prueba de concepto. 
+ 
+El Reporte de Viabilidad de Patente (RV) y la Búsqueda de Información Tecnológica 
+(BIT) son elaborados o gestionados por el Gestor Tecnológico y pueden ser otorgados 
+por INDECOPI o el CATI** de la institución o la Oficina/Unidad responsable del proceso 
+de transferencia tecnológica y propiedad intelectual de la entidad o servicio de terceros 
+que cuente con un especialista en Transferencia Tecnológica y Propiedad Intelectual, 
+en caso de proyectos cuyo producto sea un software se podrá presentar el certificado 
+de derechos de autor emitido por INDECOPI. 
+ 
+**CATI: El Centro de Apoyo a la Tecnología y la Innovación (CATI) es una oficina, 
+alojada en diversas instituciones a nivel nacional, que se encarga de brindar orientación 
+general y asistencia técnica a investigadores, inventores, innovadores y emprendedores 
+en temas vinculados con la propiedad intelectual, especialmente aquellos vinculados 
+con el sistema de patentes. Cuenta con el apoyo del INDECOPI, que es la Institución 
+Coordinadora de la Red Nacional de CATI. Se adjunta lista de CATIs emitida por el 
+INDECOPI en el Anexo 15. 
+ 
+2. CONDICIONES DEL CONCURSO 
+ 
+2.1. Prioridades del concurso 
+Las propuestas que se presenten en este concurso deben tener identificado al 
+beneficiario de su propuesta y deberán estar enmarcadas en alguna de las áreas del 
+conocimiento OCDE14 (con excepción de las áreas de ciencias sociales y humanidades), 
+y relacionadas a alguna de las siguientes áreas estratégicas, que claramente atiendan 
+la demanda estratégica o de una brecha de conocimiento importante para el desarrollo 
+del Perú, fomentando a su vez el desarrollo o uso de tecnologías transformadoras y 
+emergentes: 
+ 
+ 
+ 
+ 
+14 Listado de Áreas del conocimiento OCDE: 
+https://conocimiento.concytec.gob.pe/vocabulario/ocde_ford.html 
+ 
+11/31 
+E041-2026-02 
+Tabla N°. 5: Áreas Estratégicas del concurso 
+ÁREAS ESTRATÉGICAS 
+1. 
+Salud 
+2. 
+Ambiente 
+3. 
+Seguridad alimentaria 
+4. 
+Energías renovables 
+5. 
+Tecnologías de la Información y la comunicación TICs 
+* El detalle de cada área estratégica se encuentra en el anexo 1 de las bases. 
+ 
+2.2. Público Objetivo 
+2.2.1. Entidad Solicitante (ES) 
+Es la persona jurídica con RUC activo y habido, constituida y/o creada conforme a ley, 
+que realiza investigación o desarrollo tecnológico en CTI, conforme a sus estatutos 
+y/o marco normativo vigente; la cual presenta la propuesta y asume total responsabilidad 
+por los compromisos y obligaciones derivados de la postulación. Se incluye a la 
+dependencia, que es la unidad reconocida en la estructura organizacional de la entidad, 
+tales como Escuela, Facultad, Laboratorio, Oficina de Investigación, Campo 
+Experimental, Grupo de Investigación, sede, filial, entre otros. Las entidades solicitantes 
+de régimen privado deben contar al menos dos (02) años de funcionamiento continuo 
+inmediatamente anteriores a la fecha de cierre de la postulación con la forma societaria 
+con la que postulan según el Registro Único de Contribuyentes (RUC). 
+En caso la propuesta resulte ganadora, dicha entidad pasará a denominarse Entidad 
+Ejecutora (EE) y será la que suscriba el convenio con el Programa PROCIENCIA, 
+pudiendo ser:  
+ 
+Tabla N° 5: Tipos de Entidad Solicitante: 
+ 
+1. Universidades que se encuentren licenciadas por la SUNEDU a la fecha de cierre 
+de la postulación. 
+2. Institutos Públicos de Investigación15 (IPIs). 
+3. Institutos de investigación públicos o privados (no IPI). 
+4. Centros de investigación y/o desarrollo tecnológico y/o innovación tecnológica de 
+régimen público o privado. 
+5. Institutos de Educación Superior conforme a la Ley 30512, Ley de Institutos y 
+Escuelas de Educación Superior y de la Carrera Pública de sus Docentes e 
+Institutos Superiores Tecnológicos de régimen público o privado. Las entidades 
+públicas deben estar constituidas como unidades ejecutoras. 
+6. Instituciones públicas, ministerios u otros organismos públicos con grupos de 
+investigación y/o desarrollo tecnológico que estén constituidos como unidades 
+ejecutoras. 
+ 
+15 Para el presente concurso se consideran únicamente los Institutos Públicos de Investigación listados en el Anexo 2, 
+correspondientes al artículo N° 12 de la Ley 32150 Ley del Sistema Nacional de Ciencia, Tecnología e Innovación 
+(SINACTI). 
+ 
+12/31 
+E041-2026-02 
+7. Empresas peruanas del sector productivo o de servicio que hayan registrado una 
+venta anual superior a 150 UIT en el año 202416. Pueden participar las formas 
+societarias recogidas en la ley 26887 con formas previstas en la Ley N° 26887, 
+General de Sociedades, tales como S.A., S.A.A., S.A.C., S.C.R.L., S. Civil de R.L.; 
+bajo la ley 20598, Empresas de Propiedad Social - EPS y la ley 31072, ley de 
+sociedad y beneficio e interés colectivo (sociedad BIC). 
+8. Personas jurídicas de régimen privado sin fines de lucro17, que realicen 
+investigación en CTI según su objeto social. Será verificado mediante artículos 
+publicados en revistas indizadas o el contrato de un proyecto recién ganado o en 
+ejecución. 
+9. Centros de Innovación Productiva y Transferencia Tecnológica (CITEs) públicos o 
+privados. 
+10. Consorcios regionales de CTI18. 
+ 
+En todas las modalidades están excluidos de postular a este concurso como Entidad 
+Solicitante los centros internacionales o extranjeros, domiciliados o no en el Perú, debido 
+a que reciben fondos de gobiernos, fundaciones y organizaciones extranjeras. La 
+identificación de un centro internacional será determinada mediante su ficha RUC – 
+SUNAT. 
+ 
+En el caso de las entidades con domicilio fiscal en Lima Metropolitana que deseen 
+participar para los cupos de regiones en las modalidades semilla y avanzados, deberán 
+postular con su sede ubicada en regiones distintas a Lima Metropolitana y el 
+Responsable Técnico deberá pertenecer a dicha sede asimismo el proyecto debe ser 
+ejecutado en la sede de región con la que postula. Las sedes postulantes deben realizar 
+investigación y estar registrados en la SUNAT (Establecimientos anexos). 
+ 
+Asimismo, el Responsable Técnico debe considerar que la entidad con la que postula 
+se encuentre listada en el numeral 2.2.1 de las presentes bases. 
+ 
+2.2.2. Entidad Asociada (EA) 
+La Entidad Asociada es una organización pública o privada legalmente constituida en el 
+Perú o en el extranjero, distinta de la Entidad solicitante19, que participará activamente 
+en el proyecto de investigación con al menos un (01) Co-Investigador en el equipo de 
+investigación. La entidad asociada puede ser:   
+ 
+1) Universidades que se encuentren licenciadas por la SUNEDU a la fecha de cierre 
+de la postulación. 
+ 
+16 La verificación del Registro de Venta anual superior a 150 UITs se realizará mediante la presentación de la Declaración 
+Anual del Impuesto a la Renta según el formulario que corresponda al tipo de régimen tributario de la persona jurídica. 
+17 Conforme al Código Civil, estas pueden ser asociaciones, fundaciones o comités. 
+18 De acuerdo a lo establecido en el Reglamento de la Ley N° 31250 “Ley del Sistema Nacional de Ciencia, Tecnología 
+e Innovación (SINACTI) (D.S. N° 062-2024-PCM de fecha 21 de junio de 2024). 
+19 Evidenciado por su número de RUC. Solo en caso de que la ES y la EA sean CITEs públicos diferentes adscritos al 
+ITP u órganos desconcentrados adscritos al INS, ambas entidades podrán presentarse al concurso con el mismo número 
+de RUC. 
+ 
+13/31 
+E041-2026-02 
+2) Institutos Públicos de Investigación20 – IPIs. 
+3) Institutos de investigación públicos o privados (no IPI). 
+4) Instituciones públicas, ministerios u otros organismos públicos con grupos de 
+investigación o desarrollo tecnológico.  
+5) Institutos de Educación Superior Conforme a la Ley 30512, Ley de Institutos y 
+Escuelas de Educación Superior y de la Carrera Pública de sus Docentes de 
+régimen público o privado. 
+6) Centros de investigación y/o desarrollo tecnológico y/o innovación tecnológica 
+de régimen público. 
+7) Personas jurídicas de régimen privado sin fines de lucro21, que realicen22 o 
+promuevan23 investigación en CTI o indiquen alguna de estas actividades en su 
+objeto social.  
+8) Empresas peruanas del sector productivo o de servicio que hayan registrado una 
+venta anual superior a 150 UIT en el año 202424. Pueden participar las formas 
+societarias recogidas en la ley 26887 con formas previstas en la Ley N° 26887, 
+General de Sociedades, tales como S.A., S.A.A., S.A.C., S.C.R.L., S. Civil de 
+R.L.; bajo la ley 20598, Empresas de Propiedad Social - EPS y la ley 31072, ley 
+de sociedad y beneficio e interés colectivo (sociedad BIC).  
+9) Empresas extranjeras. 
+10) Centros de Innovación Productiva y Transferencia Tecnológica (CITEs) públicos 
+o privados. 
+11) Universidades extranjeras. 
+12) Institutos o Centros Internacionales o extranjeros de Investigación domiciliados 
+o no domiciliados en el Perú. 
+ 
+El número máximo de Entidades Asociadas por propuesta será de seis (06). 
+ 
+Para efectos del presente concurso, todas las Entidades Solicitantes de las modalidades 
+avanzados y multidisciplinarios deberán participar con una Entidad Asociada como 
+mínimo con su respectivo Co-Investigador que cumpla con los requisitos señalados en 
+el numeral 2.3 de las presentes bases. 
+ 
+En caso la Entidad Solicitante desee participar con una entidad asociada adicional, que 
+sea una Empresa peruana o persona jurídica de régimen privado sin fines de lucro que 
+no realicen investigación en CTI, dichas entidades adicionales podrán participar con un 
+personal técnico en lugar del Co-Investigador. 
+ 
+20 Para el presente concurso se consideran únicamente los Institutos Públicos de Investigación listados en el Anexo 2, 
+correspondientes al artículo N° 12 de la Ley 32150 Ley del Sistema Nacional de Ciencia, Tecnología e Innovación 
+(SINACTI). 
+21 Conforme al Código Civil, estas pueden ser asociaciones, fundaciones o comités, asimismo, pueden participar las 
+cooperativas contempladas en el Texto Único Ordenado De La Ley General De Cooperativas Decreto Supremo Nº 074-
+90-TR. 
+22 La realización de investigación en CTI se verificará a través del contrato de un proyecto recién ganado o en ejecución 
+o artículos publicados en revistas indizadas. 
+23 La promoción de la investigación en CTI se verificará mediante la difusión de actividades vinculadas a CTI organizadas 
+por la entidad. 
+24 La verificación del Registro de Venta anual superior a 150 UITs se realizará mediante la presentación de la Declaración 
+Anual del Impuesto a la Renta según el formulario que corresponda al tipo de régimen tributario de la persona jurídica. 
+ 
+14/31 
+E041-2026-02 
+ 
+Cabe resaltar que las entidades asociadas de régimen privado que deseen participar en 
+las propuestas deben contar con al menos dos (02) años de funcionamiento continuo 
+inmediatamente anteriores a la fecha de cierre de la postulación con la forma societaria 
+con la que postulan según el Registro Único de Contribuyentes (RUC). Adicionalmente, 
+las entidades asociadas peruanas deben contar con RUC activo y habido. 
+ 
+2.3. Conformación del equipo   
+Cada integrante del equipo debe contar con su registro en el CTI vitae actualizado y 
+puede desempeñar un único rol durante la postulación y la ejecución de la propuesta. 
+ 
+Tabla N°. 6: Conformación del equipo 
+Modalidad de 
+proyecto 
+Conformación del equipo 
+Proyectos de 
+Investigación 
+Multidisciplinarios 
+● Un Responsable Técnico. 
+● Al menos dos Co-Investigadores (uno por cada 
+grupo de investigación). 
+● Al menos dos tesistas de postgrado. 
+● Un Gestor Tecnológico. 
+● Un Gestor de Proyecto. 
+Proyectos de 
+Investigación 
+Avanzados 
+● Un Responsable Técnico 
+● Al menos un Co-Investigador 
+● Al menos un tesista de pregrado o postgrado 
+● Un Gestor Tecnológico 
+● Un Gestor de Proyecto. 
+Proyectos de 
+Investigación 
+Semilla 
+● Un Responsable Técnico. 
+● Al menos un Co-Investigador. 
+● Al menos un tesista de pregrado. 
+● Un Gestor de Proyecto. 
+ 
+Los requisitos de los roles dentro del equipo que forman parte de la propuesta son los 
+siguientes25: 
+ 
+1) Responsable Técnico (RT), es el equivalente al Investigador Principal y es la 
+persona natural que lidera un proyecto y es responsable de su postulación, 
+ejecución y dirección técnica; así como, el cumplimiento de los resultados finales 
+ante PROCIENCIA, objetivos y metas durante la ejecución del proyecto. Deberá 
+cumplir con los siguientes requisitos mínimos: 
+ 
+ 
+ 
+ 
+25 Si alguna persona en estos roles tuviese una restricción o impedimento, la propuesta será considerada no apta, aun 
+cuando cumpla la conformación mínima.  
+ 
+15/31 
+E041-2026-02 
+Tabla N° 7: Requisitos mínimos del Responsable Técnico para la Modalidad Semilla: 
+Responsable Técnico – Modalidad Semilla 
+1. Tener vínculo laboral o contractual con la entidad solicitante a la fecha de cierre de 
+la postulación. 
+2. Tener residencia o domicilio habitual en el Perú y en la región donde postula a la 
+fecha de cierre de la postulación. 
+3. Pertenecer a un grupo de investigación reconocido por la instancia de investigación 
+de la entidad solicitante o la que haga sus veces. 
+4. Tener como mínimo el grado de maestro (**) (registrado en la SUNEDU o adjuntado 
+manualmente en el CTI Vitae). 
+5. Haber participado o estar participando al menos en un (01) proyecto de 
+investigación26 o contar con un (01) artículo original publicado en revistas indizadas 
+en Scopus o WoS. Tanto el proyecto como el artículo deben estar relacionados al 
+área estratégica a la que aplica en el presente concurso. 
+6. No haber liderado ni estar liderando proyectos financiados por el Programa 
+PROCIENCIA o FONDECYT, es decir, no haber desempeñado roles de investigador 
+principal, responsable técnico u otro similar. 
+ 
+Tabla N° 8: Requisitos mínimos del Responsable Técnico para la Modalidad 
+Avanzados: 
+Responsable Técnico – Modalidad Avanzados 
+1. Tener vínculo laboral o contractual con la entidad solicitante a la fecha de cierre de la 
+postulación. 
+2. Tener residencia o estar domiciliado en el Perú y en la región donde postula a la 
+fecha de cierre de la postulación a la fecha de cierre de la postulación. 
+3. Ser investigador con registro en el RENACYT a la fecha de cierre de la postulación. 
+4. Pertenecer a un grupo de investigación reconocido por la instancia de investigación 
+de la entidad solicitante o la que haga sus veces. 
+5. Tener grado de maestría o doctorado (**) (registrado en la SUNEDU o adjuntado 
+manualmente en el CTI Vitae). 
+6. Haber participado o estar participando en al menos un (01) proyecto de investigación 
+con financiamiento concursable de fondos internos o externos (nacionales o 
+internacionales)27. Los proyectos presentados deben estar relacionados al área 
+estratégica a la que aplica en el presente concurso. 
+7. Contar con al menos dos (02) artículos científicos originales publicados en revistas 
+indizadas en Scopus o WoS relacionados al área estratégica a la que aplica en el 
+presente concurso. 
+ 
+ 
+26 Para la modalidad semilla se considera como proyecto de investigación la tesis para la obtención del grado de doctor, 
+la cual debe haber sido sustentada y aprobada como mínimo. 
+27 Sólo en el caso de los Institutos Públicos de Investigación (IPI) se podrán considerar aquellos proyectos financiados 
+con fondos propios no concursables de la institución. 
+ 
+16/31 
+E041-2026-02 
+Tabla N° 9: Requisitos mínimos del Responsable Técnico para la Modalidad 
+Multidisciplinarios: 
+Responsable Técnico – Modalidad Multidisciplinarios 
+1. Tener vínculo laboral o contractual con la entidad solicitante a la fecha de cierre de 
+la postulación. 
+2. Tener residencia o estar domiciliado en el Perú a la fecha de cierre de la 
+postulación. 
+3. Ser investigador registrado en el RENACYT a la fecha de cierre de la postulación. 
+4. Pertenecer a un grupo de investigación reconocido por la instancia de investigación 
+de la entidad solicitante o la que haga sus veces. 
+5. Tener grado de doctor (**) (registrado en la SUNEDU o adjuntado manualmente en 
+el CTI Vitae) 
+6. Haber sido o ser el Responsable Técnico (Investigador Principal) o participado o 
+estar participando en un mínimo de dos (02) proyectos de investigación con 
+financiamiento concursable de fondos internos o externos (nacionales o 
+internacionales)28. Los proyectos presentados deben estar relacionados al área 
+estratégica a la que aplica en el presente concurso. 
+7. Contar con al menos tres (03) artículos científicos originales publicados en revistas 
+indizadas en Scopus o WoS relacionados al área estratégica a la que aplica en el 
+presente concurso. 
+ 
+Para todas las modalidades, el equipo de investigación deberá contar con un (01) 
+Responsable Técnico, el cual podrá presentar una única propuesta en el presente 
+concurso. 
+ 
+En todas las modalidades el Responsable Técnico deberá mantener su vínculo laboral 
+o contractual con la Entidad Ejecutora durante la postulación, evaluación, selección y 
+ejecución del proyecto hasta cumplir con todas las obligaciones estipuladas en el 
+contrato de la subvención y la Guía que regula el soporte, seguimiento y evaluación 
+técnico y financiero para la ejecución de proyectos o programas subvencionados por 
+PROCIENCIA; de existir causales de excepción, estas se encuentran reguladas en 
+dicha guía. 
+ 
+2) Co-Investigador (Co-I), quienes aportarán su experiencia y conocimiento 
+específico en la temática en la cual se enmarca el proyecto. 
+ 
+Requisitos mínimos para todas las modalidades de proyectos de investigación: 
+a) Deberá tener vínculo29 laboral o contractual o académico con la entidad 
+solicitante o la entidad asociada según corresponda. 
+ 
+28 Sólo en el caso de los Institutos Públicos de Investigación (IPI) se podrán considerar aquellos proyectos financiados 
+con fondos propios no concursables de la institución. 
+29 Para efectos del presente concurso además del vínculo laboral o contractual (contrato, CAS, planilla, orden de servicio 
+u otro que la entidad considere) que el co-investigador pueda tener, se considera además el vínculo académico, el cual 
+puede ser: estudiante de postgrado de la entidad / ser tesista de postgrado de la entidad / ser egresado de postgrado 
+ 
+17/31 
+E041-2026-02 
+b) Tener como mínimo título universitario, en el caso de pertenecer a 
+universidades deberán tener como mínimo el grado de maestro**. 
+c) Haber participado o estar participando en al menos un (01) proyecto de 
+investigación con financiamiento concursable de fondos internos y/o 
+externos (nacionales o internacionales). 
+ 
+En el equipo debe haber al menos un (01) Co-Investigador para la modalidad 
+Semilla y avanzados y al menos dos (02) Co-Investigadores para la modalidad 
+Multidisciplinarios. El número máximo de Co-Investigadores por propuesta será de 
+seis (06).  
+Para efectos del presente concurso, todas las Entidades Solicitantes de las 
+modalidades avanzados y multidisciplinarios deberán participar con una Entidad 
+Asociada como mínimo; en caso la Entidad Solicitante desee participar con una 
+entidad asociada adicional, que sea una Empresa peruana o persona jurídica de 
+régimen privado sin fines de lucro que no realicen investigación en CTI, dichas 
+entidades adicionales podrán participar con un personal técnico en lugar del Co-
+Investigador. 
+ 
+En caso de que el Co-Investigador provenga de una empresa, instituto o centro 
+extranjero se podrá considerar el grado de Bachiller (Bachelor´s degree) en lugar 
+del requisito mínimo de título universitario. 
+ 
+En todas las modalidades el Co-Investigador deberá mantener su vinculación con 
+la Entidad Ejecutora o Asociada, según corresponda, durante la postulación, 
+evaluación, selección y hasta cumplir con sus obligaciones estipuladas en el 
+contrato de la subvención y la Guía que regula el soporte, seguimiento y 
+evaluación técnico y financiero para la ejecución de proyectos o programas 
+subvencionados por PROCIENCIA; de existir causales de excepción, estas se 
+encuentran reguladas en dicha Guía. 
+ 
+3) Tesistas (pregrado o posgrado), estudiantes del último año o egresados o 
+bachilleres de universidades peruanas licenciadas por la SUNEDU que realizan 
+actividades propias para el desarrollo de la tesis, debiendo realizar la sustentación 
+de la misma durante el periodo de ejecución del proyecto.  El tesista debe estar 
+identificado a la fecha de cierre de la postulación, y podrá ser incorporado hasta 
+dentro de los tres (03) primeros meses de la ejecución del proyecto. Los requisitos 
+de la función serán verificados en la ejecución. El Responsable Técnico 
+garantizará que el tesista no cuente con otro estipendio para el desarrollo de su 
+tesis por parte del Programa PROCIENCIA. 
+ 
+Las propuestas a ser presentadas deberán contar con 
+- 
+Al menos un (01) tesista de pregrado o postgrado para los proyectos de 
+Investigación de las Modalidades Semilla y Avanzados. 
+ 
+que participe en algún grupo de investigación de la entidad presentando constancia del vínculo existente con la entidad 
+firmada por el responsable o jefe de dicho grupo / profesor emérito u otro que la entidad considere. 
+ 
+18/31 
+E041-2026-02 
+- 
+Al menos dos (02) tesistas, uno (01) de pregrado y uno (01) de postgrado para 
+los proyectos de Investigación de la Modalidad Multidisciplinarios. 
+ 
+Los tesistas de pregrado deberán ser bachilleres o estudiantes del último año o 
+egresados de pregrado, cuya fecha de egreso no podrá ser mayor a tres años a 
+la fecha de cierre de la postulación del presente concurso. 
+Los tesistas de postgrado deberán ser estudiantes del último año o egresados de 
+postgrado maestría o doctorado de acuerdo a la tesis a ser desarrollada y la fecha 
+de egreso no debe ser mayor a cinco años a la fecha de cierre de la postulación 
+del presente concurso. Adicionalmente, no deberán contar con el grado 
+académico a ser obtenido con la tesis que será sustentada. 
+ 
+Las tesis a ser desarrolladas deberán realizarse de manera individual y no se 
+aceptarán propuestas de tesis culminadas. El tesista deberá ser presentado por 
+alguna de las entidades participantes peruanas indicando la procedencia y deberá 
+permanecer hasta finalizar y sustentar la tesis desarrollada. 
+ 
+4) Un (01) Gestor Tecnológico, responsable de elaborar la búsqueda d información 
+tecnológica (BIT), el paquete tecnológico, el reporte de viabilidad de patente, y 
+otros entregables relacionados con los temas de propiedad intelectual y planes de 
+uso. Sus acciones están orientadas a poder garantizar que las aplicaciones del 
+proyecto a desarrollar puedan llegar a mercado o ser parte de un proceso de 
+transferencia tecnológica. El Gestor Tecnológico deberá contar con su registro en 
+el CTI Vitae y estar identificado30 y ser incluido en la propuesta a la fecha de cierre 
+de la postulación y mantenerse durante la ejecución. De existir causales de 
+excepción, éstas se encuentran reguladas en la guía de Soporte, Seguimiento y 
+Evaluación. Este especialista deberá ser considerado de manera obligatoria 
+en las propuestas de proyectos de investigación de la Modalidad 
+Multidisciplinarios.  
+ 
+Requisitos mínimos: 
+a) Tener vínculo laboral o contractual31 o académico32 con la entidad solicitante 
+a la fecha de cierre de la postulación.  
+b) Contar como mínimo grado académico de bachiller a la fecha de cierre de la 
+postulación. 
+c) Tener como mínimo un (01) año de experiencia en proyectos o actividades 
+relacionadas con investigación o innovación o transferencia tecnológica o 
+propiedad intelectual o experiencia laboral en Incubadoras, CATIs, Oficinas 
+ 
+30 Se recomienda que, al formular la propuesta, la selección e inclusión del Gestor Tecnológico sea realizada en 
+coordinación con la unidad o área responsable de: los procesos de transferencia tecnológica de su institución, tales como 
+los Vicerrectorados de Investigación, Direcciones de innovación y transferencia tecnológica, etc 
+31 En caso de que el gestor tecnológico no tenga vínculo laboral o contractual, la Entidad Solicitante se compromete a 
+incorporarlo en alguna de estas modalidades cuando sea seleccionada, manteniendo al mismo gestor tecnológico 
+presentado en la postulación. 
+32 Para el caso del Gestor Tecnológico se considera vínculo académico, el cual puede ser: estudiante de postgrado de la 
+entidad / ser tesista de postgrado de la entidad / ser egresado de postgrado que participe en algún grupo de investigación 
+de la entidad presentando constancia del vínculo existente con la entidad firmada por el responsable o jefe de dicho 
+grupo 
+ 
+19/31 
+E041-2026-02 
+de Propiedad Intelectual y Transferencia de tecnologías o haber 
+desempeñado el rol de gestor tecnológico en algún proyecto ejecutado con 
+financiamiento del Programa PROCIENCIA. 
+d) Debe tener como mínimo un (01) año de experiencia de haber laborado en 
+el sector privado. 
+ 
+El gestor tecnológico podrá participar como máximo en la ejecución de tres (03) 
+proyectos, incluyendo el propuesto en el presente concurso; cumpliendo con las 
+funciones necesarias para la obtención resultados del proyecto vinculados a 
+Propiedad Intelectual y Transferencia Tecnológica.  
+ 
+El Gestor Tecnológico deberá presentar los siguientes resultados al finalizar la 
+ejecución de la subvención: 
+a. Constancia de participación del gestor tecnológico en un (01) taller de 
+inducción de gestión tecnológica por parte del CONCYTEC*. 
+b. Constancia o certificado de participación del Gestor Tecnológico en al 
+menos tres (03) cursos MOOC en temas relacionados a propiedad 
+intelectual o transferencia tecnológica disponibles en la Plataforma 
+Vincúlate, Patenta, la Escuela Profesional de INDECOPI, la Organización 
+Mundial de la Propiedad Intelectual (OMPI) u otros convocados por la 
+SDITT/CONCYTEC en coordinación con PROCIENCIA. 
+ 
+*Aquellos gestores tecnológicos que hayan participado en los Talleres Gestores 
+Tecnológicos dictados por la Sub Dirección de Innovación y Transferencia 
+Tecnológica del CONCYTEC pueden hacer valer dicha capacitación; de igual 
+manera, aquellos gestores tecnológicos que hayan llevado los cursos indicados 
+en las presente bases, podrán hacer válidas dichas constancias de los cursos 
+realizados. 
+ 
+5) Un (01) Gestor de Proyectos, quien es la persona natural de la Entidad Ejecutora, 
+responsable de la gestión administrativa de un proyecto y de reportar el avance 
+financiero, técnico y la ejecución final de la subvención a través de los documentos 
+de gestión correspondiente (ITF, IFR o plan operativo, entre otros) y medios de 
+comunicación indicados. El Equipo de Investigación deberá contar con un (01) 
+gestor de proyecto el cual debe estar identificado y ser incluido en la propuesta a 
+la fecha de cierre de la postulación. 
+ 
+Requisitos mínimos: 
+a) Tener como mínimo grado académico de bachiller a la fecha de cierre de la 
+postulación. 
+b) Contar con experiencia en contrataciones con el estado peruano o gestión 
+logística o administrativa de al menos un (01) proyecto con financiamiento 
+con fondos públicos. 
+ 
+ 
+20/31 
+E041-2026-02 
+De ser necesario, el equipo puede contar con máximo seis (06) personas en el rol de 
+personal técnico o de laboratorio, el cual: no debe ser un investigador participante, 
+no debe tener grado de doctor o maestro, no podrá realizar actividades de difusión de 
+los resultados, ni pasantías y realizará funciones a nivel operativo33. Asimismo, puede 
+contar con hasta seis (06) asistentes de investigación, los cuales buscan desarrollar 
+una carrera científica y pueden ser estudiantes o egresados de maestría, maestros o 
+estudiantes de doctorado, podrán realizar actividades de difusión, pasantías y 
+desempeñar funciones a nivel operativo, así como funciones de nivel analítico entre 
+otras. Tanto el personal técnico o de laboratorio como el asistente de investigación 
+deben contar con una cuenta de CTI Vitae. 
+ 
+(**) Para los roles del Responsable técnico y el Co-Investigador: En caso de haber 
+sustentado la tesis para la obtención del título profesional o grado académico en el año 
+2025 o 2026 hasta antes de la fecha de cierre de postulación, podrán presentar la 
+constancia de aprobación de tesis o acta de sustentación de tesis o su equivalente en 
+caso de entidades extranjeras, emitida por la Facultad o Escuela correspondiente.  
+ 
+En caso de que algún integrante del equipo sea becario de programas de doctorado o 
+maestría del Programa PROCIENCIA deberá verificar que ni las bases ni el contrato de 
+dicho concurso indiquen dedicación exclusiva. Aquellos becarios de las Alianzas 
+Interinstitucionales para Programas de Doctorado del Programa PROCIENCIA no 
+podrán postular como Responsable Técnico o Tesista y deberán cumplir con lo 
+estipulado en las bases y el contrato de dicho financiamiento. 
+ 
+Registro en ORCID:  
+El Responsable Técnico, los Co-Investigadores peruanos y extranjeros residentes en el 
+Perú, los Tesistas y Asistentes de Investigación deberán contar con su registro en 
+ORCID (www.orcid.org), el cual deberá estar vinculado al CTI Vitae – Hojas de Vida 
+afines a la Ciencia y Tecnología (https://ctivitae.concytec.gob.pe). Para información de 
+cómo realizar la vinculación de su cuenta del CTI Vitae con su registro ORCID ingresar 
+en 
+el 
+siguiente 
+enlace: 
+https://sites.google.com/concytec.gob.pe/ctivitae/datos-
+generales/orcid  
+ 
+ 
+ 
+ 
+33 Se consideran funciones a nivel operativo: preparación de soluciones y reactivos, mantenimiento de equipos y 
+materiales de laboratorio, realiza pruebas de laboratorio estandarizadas, calibración de equipos, manejo de animales de 
+experimentación, trabajo de campo, entre otras acordes a la naturaleza del proyecto. 
+Nota importante: Los registros de todos los integrantes del equipo, peruanos o 
+extranjeros residentes en el Perú, deberán realizarse con el número de documento 
+de identidad vinculado a su cuenta en el CTI Vitae. En el caso de los integrantes 
+no residentes en el Perú que pertenezcan a una entidad extranjera, deberán contar 
+con el registro ORCID o Scopus ID. 
+ 
+21/31 
+E041-2026-02 
+2.4. Financiamiento 
+2.4.1. Monto y plazo 
+El Programa PROCIENCIA otorgará al menos noventa y dos (92)34 subvenciones por 
+un monto máximo de financiamiento, en calidad de recursos monetarios no 
+reembolsables de hasta S/ 100,000 (cien mil soles), S/ 300,000 (trescientos mil soles) y 
+S/ 500,000 (quinientos mil soles); con la siguiente distribución de manera referencial: 
+ 
+Tabla N° 10: Número de subvenciones, monto máximo de financiamiento y plazo de 
+ejecución 
+ 
+Modalidad de 
+Proyectos 
+Postulación 
+Subvenciones 
+Monto 
+Máximo a 
+financiar 
+Plazo de 
+ejecución 
+Procedencia 
+Cantidad 
+Total 
+Semilla 
+Individual o 
+Asociada 
+Lima 
+Metropolitana 
+15 
+40 
+S/ 100,000 
+Hasta 24 
+meses 
+Regiones 
+25 
+Avanzados 
+Asociada 
+Lima 
+Metropolitana 
+11 
+22 
+S/ 300,000 
+Hasta 24 
+meses 
+Regiones 
+11 
+Multidisciplinarios 
+Asociada 
+Nacional 
+30 
+30 
+S/ 500,000 
+Hasta 36 
+meses 
+ 
+En caso de que las propuestas aprobadas no cubran la distribución asignada, éstas se 
+reasignarán a cualquier otra de las modalidades o de acuerdo con la procedencia. 
+ 
+El financiamiento del presente concurso está sujeto a disponibilidad presupuestal. 
+ 
+El Programa PROCIENCIA desembolsará de manera referencial el 80% del monto total 
+aprobado en la primera armada para todas las modalidades.  
+ 
+El Responsable Técnico debe considerar los plazos requeridos por su institución para 
+realizar las gestiones logísticas y administrativas necesarias para la ejecución del 
+proyecto, al momento de indicar la duración del mismo en la plataforma de postulación. 
+  
+2.4.2. Rubros Financiables 
+Los recursos monetarios que aporta el Programa PROCIENCIA sólo podrán ser 
+utilizados para financiar actividades y acciones del proyecto seleccionado. Los rubros 
+financiables y no financiables se encuentran detallados en el Anexo No. 8.  
+ 
+ 
+ 
+ 
+ 
+34 El número de subvenciones estará condicionado a las propuestas aprobadas. 
+ 
+22/31 
+E041-2026-02 
+ 
+Tabla N° 11: Rubros Financiables 
+Rubro 
+% máximo del 
+monto financiado 
+por PROCIENCIA  
+Descripción  
+Recursos 
+humanos35 
+Hasta el 60% 
+Incentivo monetario a ser otorgado al Responsable Técnico 
+y los Co-Investigadores. 
+Estipendio para el personal técnico o de laboratorio, 
+asistente de investigación, tesistas y el Gestor 
+Tecnológico36. 
+Pasajes y 
+viáticos 
+Hasta el 15% 
+Gastos de viajes relacionados a actividades propias del 
+proyecto de investigación (pasajes, viáticos y manutención). 
+Equipos y 
+bienes 
+duraderos 
+Hasta el 40% 
+Corresponde a la adquisición de equipos para el proyecto 
+de investigación. Se consideran aquellos bienes cuyo costo 
+por unidad sea mayor a ¼ de UIT, ya que son considerados 
+inventariables37 
+Gastos 
+logísticos de 
+operación 
+Hasta el 10% 
+Estipendio para el Gestor de Proyectos26, útiles de oficina, 
+impresiones u otros gastos logísticos del proyecto. 
+Materiales e 
+insumos 
+sin porcentaje 
+máximo 
+Materiales, insumos, reactivos, accesorios, componentes 
+electrónicos o mecánicos, bienes no inventariables. 
+Servicios de 
+terceros 
+Hasta el 25% 
+Gastos de contratación de personas naturales o jurídicas 
+para la ejecución de actividades de índole técnica 
+especializada consideradas como críticas para lograr el 
+buen resultado de la propuesta y/o actividades 
+complementarias dentro de la misma (incluye asesorías 
+especializadas, el seguro de viaje, entre otros). 
+*Al momento de elaborar la sección presupuestal correspondiente al financiamiento del 
+Programa PROCIENCIA en la plataforma de postulación, el postulante debe verificar 
+que los rubros financiables indicados sumen un total de 100%. 
+ 
+2.4.3. Contrapartida 
+La contrapartida es el aporte monetario y/o no monetario que las entidades participantes 
+(Entidad Solicitante y Entidades Asociadas) se comprometen a dar. El aporte no 
+monetario valorizado que se consigne en el presupuesto total no podrá exceder el aporte 
+monetario o financiamiento que otorgue el Programa PROCIENCIA.  
+ 
+No se aceptará como contrapartida monetaria, aquella que provenga de otros 
+financiamientos del Programa PROCIENCIA. Los porcentajes de contrapartida para 
+ 
+35 Bajo ningún concepto se podrá financiar ningún tipo de beneficio social o costo laboral con el financiamiento otorgado 
+por el Programa PROCIENCIA. En caso de realizar la contratación por planilla, dichos montos deberán ser asumidos por 
+la entidad ejecutora. 
+36 En el caso que el tesista, el personal técnico de laboratorio, el asistente de investigación, el gestor del proyecto o el 
+gestor tecnológico sea un funcionario o servidor público de dicha entidad, el porcentaje valorizado de dedicación al 
+proyecto de su remuneración será considerado como contrapartida no monetaria. 
+37 De acuerdo a lo establecido en el Artículo 23 del Reglamento del Impuesto a la Renta, actualizado al 29 de junio de 
+2023, con Decreto Supremo N° 137-2023-EF. 
+ 
+23/31 
+E041-2026-02 
+todas las modalidades de proyectos de investigación, según la Entidad Solicitante, se 
+muestran en el siguiente cuadro:  
+ 
+Tabla N° 12: Contrapartida por tipo de Entidad Solicitante 
+Entidad Solicitante38 
+Distribución del Costo Total del Proyecto 
+(En porcentaje) 
+Presupuesto 
+Total del 
+Proyecto 
+% máximo de 
+financiamiento 
+PROCIENCIA 
+% mínimo de 
+aporte 
+monetario del 
+costo total 
+del proyecto 
+% mínimo de 
+aporte no 
+monetario del 
+costo total del 
+proyecto 
+Entidades públicas* o privadas 
+sin fines de lucro o 
+universidades de condición 
+jurídica privada asociativa. 
+80% 
+0%*** 
+20% 
+100% 
+Entidades privadas con fines 
+de lucro y universidades de 
+condición jurídica privada 
+societaria. 
+60% 
+30% 
+10% 
+100% 
+ 
+(***) Las entidades peruanas de régimen público39 no deben colocar aporte 
+monetario en la propuesta, debido a la naturaleza de su régimen. 
+El aporte no monetario (valorizado) o monetario de las entidades deben considerar los 
+mismos rubros financiables señalados en el Anexo No. 8 y su cumplimiento será 
+verificado durante la ejecución del proyecto. 
+ 
+A continuación, se pone como ejemplo el caso de un proyecto de investigación de la 
+modalidad semilla que solicita el monto máximo: 
+ 
+Tabla N° 13: Ejemplo de Distribución del presupuesto y Contrapartida con fines 
+didácticos 
+Entidad Solicitante 
+Distribución del Costo Total del Proyecto 
+(En porcentaje) 
+Presupuesto 
+Total del 
+Proyecto 
+% máximo de 
+financiamiento 
+PROCIENCIA 
+% mínimo de 
+aporte 
+monetario del 
+costo total del 
+proyecto 
+% mínimo de 
+aporte no 
+monetario del 
+costo total del 
+proyecto 
+Entidades públicas o 
+privadas sin fines de lucro 
+o universidades de 
+condición jurídica privada 
+asociativa. 
+80% 
+(S/ 100,000) 
+0% 
+(S/ 0) 
+20% 
+(S/ 25,000) 
+100% 
+(S/ 125,000) 
+ 
+38 Conforme al Art. 115 de la Ley Nº 30220, Ley Universitaria 
+39 Para las entidades participantes de régimen público, el porcentaje de aporte monetario debe ser cero “0”. 
+ 
+24/31 
+E041-2026-02 
+Entidades privadas con 
+fines de lucro y 
+universidades de 
+condición jurídica privada 
+societaria. 
+60% 
+(S/ 100,000) 
+30% 
+(S/ 50,000) 
+10% 
+(S/ 16,667) 
+100% 
+(S/ 166,667) 
+En lo que corresponda al aporte no monetario (valorizado) se tendrá en cuenta lo 
+siguiente: 
+ 
+Tabla N° 14: Rubros correspondientes al aporte no monetario de las entidades 
+Rubros 
+Aporte No Monetario de Entidades 
+● Recursos humanos 
+● Gastos logísticos de 
+operación 
+Se valoriza el tiempo (en horas) dedicado a la ejecución del 
+proyecto. La hora se valoriza según la remuneración bruta u 
+honorarios40 en la entidad que participa en el proyecto. 
+● Equipos y bienes 
+duraderos 
+Se valoriza el uso de los equipos (en buen funcionamiento y que han 
+recibido mantenimiento preventivo) y bienes duraderos de la entidad, 
+distintos a los adquiridos con la subvención, según su vida útil. 
+● Materiales e insumos 
+● Servicios de terceros 
+● Pasajes y Viáticos 
+Se valorizan según su costo actual en el mercado. 
+ 
+En lo que corresponda al aporte monetario se tendrá en cuenta lo siguiente: 
+ 
+Tabla N° 15: Rubros correspondientes al aporte monetario de las entidades 
+Rubros 
+Aporte Monetario de Entidades 
+● Recursos humanos 
+● Gastos logísticos de 
+operación 
+El salario del responsable técnico, co-investigadores, personal 
+técnico, gestor de proyectos y gestor tecnológico, que participarán 
+en el proyecto de investigación aplicada.  
+● Equipos y bienes 
+duraderos 
+Equipamiento para investigación que se comprometa a adquirir la 
+entidad en el primer año de contrato para este proyecto de 
+investigación aplicada.  
+● Materiales e insumos 
+● Servicios de terceros 
+● Pasajes y Viáticos 
+Pagos o compras realizadas por la entidad con relación a la 
+ejecución de la propuesta. 
+ 
+ 
+3. POSTULACIÓN  
+ 
+El registro de postulación se realiza a través de la página web del Programa 
+PROCIENCIA: www.prociencia.gob.pe y no se aceptará ningún documento enviado por 
+otra vía.  
+El Responsable Técnico ingresa al sistema de postulación con su código de usuario y 
+contraseña del CTI Vitae41. El sistema permite una sola postulación por 
+Responsable Técnico. 
+ 
+40 Remuneración bruta. 
+41 http://ctivitae.concytec.gob.pe.    
+ 
+25/31 
+E041-2026-02 
+Es responsabilidad de cada integrante del equipo actualizar su CV (Curriculum 
+Vitae) con los documentos sustentatorios en el CTI Vitae y/o ORCID según corresponda. 
+La información del CV que se tomará en cuenta para la evaluación será la actualizada 
+hasta el envío de la propuesta ante el Programa PROCIENCIA.  
+ 
+Asimismo, el cierre de la postulación está programado en automático, de acuerdo a lo 
+indicado en el reloj del sistema; por lo que no se aceptará ningún documento, propuesta 
+o solicitud posterior a la hora de cierre. Asimismo, es altamente recomendable preparar 
+y enviar la postulación con anticipación, así como la verificación del funcionamiento 
+adecuado de su red y computador, para evitar inconvenientes de último momento. 
+ 
+El proceso de postulación será explicado mediante un video tutorial que se encontrará 
+colgado en la web del concurso, para orientación sobre la manera correcta de completar 
+y enviar su propuesta.  
+ 
+3.1. Elegibilidad 
+El cumplimiento de los requisitos de elegibilidad será declarado por las entidades 
+participantes, mediante las Declaraciones Juradas que forman parte de los anexos 4A, 
+4B y/o 4C, así como por el Responsable Técnico mediante la Declaración Jurada del 
+Anexo 5. En caso de que alguna de las entidades participantes o integrantes del equipo 
+de investigación cuente con alguna restricción o impedimento señalado en las 
+declaraciones juradas, la propuesta será considerada No Elegible.  
+Cabe señalar que, todas las declaraciones juradas o documentos similares, así como la 
+información incluida en la plataforma de postulación presentada por el Responsable 
+Técnico, se presumen verificados, así como de contenido veraz para fines 
+administrativos, salvo prueba en contrario. 
+ 
+3.2. Documentos de postulación 
+1) CV del Responsable Técnico, se genera de manera automática en el CTI Vitae al 
+momento del envío del registro.  
+2) CV de los Co-Investigadores; el cual será extraído del CTI Vitae para el caso de 
+los co-investigadores peruanos o extranjeros residentes en el Perú. 
+En el caso de los Co-Investigadores de entidades extranjeras y/o no residentes en 
+el Perú el CV deberá estar actualizado a la fecha de envío de la postulación; 
+asimismo, será revisado a través del link de su registro ORCID o Scopus Author 
+ID adjunto en la plataforma de postulación. 
+3) Propuesta de Proyecto: será presentada a través de la plataforma de postulación 
+online. 
+4) Carta(s) de presentación y compromiso de la Entidad Solicitante* y/o Asociadas 
+peruanas**. Ver Anexo 4A (ES), 4B (EA Peruana), las cuales tienen carácter de 
+declaración jurada. 
+5) Carta de compromiso en el caso de Entidad Asociada Extranjera, la cual tiene 
+carácter de declaración jurada. Ver Anexo 4C***. 
+6) Declaración Jurada suscrita por el Responsable Técnico, (Anexo 5). 
+ 
+26/31 
+E041-2026-02 
+7) Declaración de Ética e Integridad Científica suscrita por el Responsable Técnico 
+(Anexo 10). 
+8) Documento de Compromiso de Finalización de la Tesis, firmada por el tesista que 
+forma parte del equipo. En caso de contar con la participación de más de un tesista 
+cada uno deberá presentar su documento de compromiso respectivo (Anexo 6). 
+9) De presentar evidencia de haber participado o liderado o estar participando en un 
+proyecto de investigación, se presentará la Constancia del proyecto de 
+investigación otorgada por la entidad solicitante o ejecutora, que evidencie el rol 
+que el Responsable Técnico ha desempeñado o se encuentra desempeñando en 
+el mencionado proyecto. En el caso de los proyectos en ejecución pueden 
+presentar el contrato de subvención y en caso de proyectos ejecutados o 
+culminados pueden presentar el Oficio de Cierre (como en el Programa 
+PROCIENCIA) u otro que evidencia la culminación del proyecto. De acuerdo a lo 
+señalado en el numeral 2.3 Conformación del Equipo, para la modalidad 
+multidisciplinarios el financiamiento debe ser de fondo concursable. 
+10) Plan de Gestión de Datos de Investigación: será presentado a través de la 
+plataforma de postulación online. 
+ 
+Toda la información que se consigne en el registro de postulación, incluyendo los datos 
+del CTI Vitae y ORCID, tiene carácter de declaración jurada.  
+ 
+Todo documento que requiera de firma en la etapa de postulación puede ser presentado 
+con la firma electrónica (Registro en RENIEC en caso de entidades peruanas) o 
+manuscrita (con el compromiso de presentar el documento en físico en caso de que la 
+propuesta sea seleccionada). No se aceptarán documentos con la firma digitalizada 
+(imagen inserta en el documento). 
+ 
+*La carta de compromiso de la Entidad Solicitante será presentada en hoja 
+membretada de cada entidad y a la fecha de cierre de la postulación deberá contar con 
+la firma del Representante legal de la institución con poderes vigentes, quien deberá 
+tener la facultad de suscribir contratos. 
+ 
+**La carta de compromiso de la Entidad Asociada Peruana debe ser presentada en hoja 
+membretada de cada entidad y al momento de la postulación, deberá contar con la firma 
+del representante legal de la institución.  
+ 
+***La carta de compromiso de la Entidad Asociada Extranjera debe ser presentada en 
+hoja membretada de la entidad y podrá ser firmada por la autoridad inmediata superior 
+al Co-Investigador presentado, en caso de que el Co-Investigador sea el jefe de su 
+respectivo laboratorio o tenga cargo de autoridad, el documento puede ser firmado por 
+él mismo. 
+ 
+3.3. Programación de Actividades 
+La programación de actividades del concurso se detalla a continuación:  
+ 
+ 
+27/31 
+E041-2026-02 
+Tabla N° 16: Cronograma de actividades del concurso 
+Actividad 
+Fecha 
+Apertura del Concurso 
+Viernes, 31 de octubre de 2025. 
+Fecha límite de recepción de consultas* 
+para la Integración de bases 
+Lunes, 10 de noviembre de 2025 
+Publicación de Bases Integradas 
+A partir del miércoles, 19 de noviembre de 
+2025. 
+Fecha de cierre de la postulación 
+Martes, 03 de febrero de 2026 a las 
+13:00:00 hora local UTC/GMT -5 horas. 
+Publicación de Resultados 
+A partir del 15 de junio de 2026. 
+Fecha de desembolso 
+A partir del 31 de julio de 2026. 
+* En caso de tener consultas o dudas respecto al contenido de las bases, puede realizar 
+sus consultas vía telefónica o por correo electrónico hasta una hora antes del cierre de 
+la postulación para tratar de brindarle la mejor atención posible. 
+ 
+En caso de requerirse alguna actualización del cronograma, este podrá ser modificado 
+previa autorización de la Dirección Ejecutiva. Dicha modificación será publicada en el 
+portal del Programa PROCIENCIA: www.prociencia.gob.pe.  
+ 
+3.4. Absolución de consultas 
+Las consultas telefónicas serán atendidas de lunes a viernes (días hábiles) en el horario 
+de 8:30 am a 4:45 pm, con excepción del día de cierre, en el que la atención se realizará 
+de 8:30 am a 12:00 del mediodía. 
+Los únicos medios de comunicación oficiales son los correos electrónicos y números 
+telefónicos indicados en la tabla a continuación y no se aceptarán consultas por 
+ningún otro canal de comunicación. 
+ 
+Tabla N° 17: Correos electrónicos y números telefónicos para consultas relacionadas al 
+presente concurso 
+Tema de consulta 
+Contacto 
+Contenido de las bases 
+convocatorias@prociencia.gob.pe 
++511 644-0004 anexo 320 
+Funcionamiento de la Plataforma VINCÚLATE 
+y temas relacionados al gestor tecnológico 
+contacto.sditt@concytec.gob.pe 
+Funcionamiento del sistema en línea 
+mesadeayuda@prociencia.gob.pe 
++511 644-0004 anexo 143 
+Resultados del concurso 
+evaluacion@prociencia.gob.pe 
+Registro y el funcionamiento del CTI Vitae 
+ctivitae@concytec.gob.pe 
++511 644-0004 anexo 444 
+ 
+Todo reclamo o solicitud relacionada a una propuesta, durante y después de la etapa 
+de postulación, deben ser realizadas por el Responsable Técnico. El Programa 
+PROCIENCIA se comunicará directamente con el Responsable Técnico, en caso de ser 
+ 
+28/31 
+E041-2026-02 
+necesario, motivo por el cual debe actualizar el número de contacto y correo electrónico 
+en el CTI Vitae. 
+ 
+Los reclamos o comunicaciones por inconvenientes con la plataforma de postulación se 
+deberán reportar teniendo en cuenta la fecha y hora de cierre del concurso, al correo 
+electrónico de mesadeayuda@prociencia.gob.pe. La comunicación deberá incluir una 
+captura de pantalla que evidencie el inconveniente.  
+La Sub Unidad de Selección de Beneficiarios (SUSB) atenderá, a través del correo 
+electrónico convocatorias@prociencia.gob.pe y a través del teléfono +511 644-0004 
+anexo 320, las diferentes consultas y posibles reclamos durante y hasta el cierre de la 
+etapa de postulación. La atención será en orden de llegada, por lo que se recomienda 
+realizarlas hasta una (01) hora antes del cierre de la postulación para garantizar una 
+adecuada atención. 
+ 
+ 
+4. EVALUACIÓN, SELECCIÓN Y RESULTADOS  
+ 
+El Programa PROCIENCIA, a través de la Sub Unidad de Selección de Beneficiarios 
+(SUSB), es responsable del proceso de evaluación y selección de las propuestas 
+presentadas, hasta la publicación de los resultados del concurso. 
+ 
+El CONCYTEC y el Programa PROCIENCIA se reservan el derecho de, solicitar a los 
+postulantes los documentos probatorios de las declaraciones juradas presentadas en el 
+presente concurso cuando lo considere pertinente, manteniendo el principio de equidad 
+para todos los postulantes.  
+ 
+En el Anexo No. 9 se precisa la escala de calificación, criterios de evaluación y aspectos 
+a evaluar del proyecto, así como una descripción general sobre la constitución del Panel 
+de Selección. Mayor detalle podrá encontrarse en la Cartilla de Evaluación y 
+Elegibilidad.  
+ 
+4.1. Contrato 
+Publicados los resultados en la web del Programa PROCIENCIA, considerando las 
+características del concurso, la Sub Unidad de Selección de Beneficiarios se comunicará 
+con los seleccionados (Responsables Técnicos) a través del correo electrónico. 
+ 
+El Contrato, será suscrito por el Representante Legal de la Entidad Ejecutora y el 
+Director Ejecutivo del Programa PROCIENCIA, para dichos efectos la Entidad Ejecutora 
+deberá presentar los documentos requeridos por el Programa PROCIENCIA (Anexos 
+4A, 4B y/o 4C según corresponda) mediante comunicación electrónica o física. 
+ 
+El Contrato será suscrito, preferentemente con firma digital mediante DNI electrónico42 
+por el Representante Legal de la Entidad Ejecutora y la Directora Ejecutiva del Programa 
+PROCIENCIA, para dichos efectos la Entidad Ejecutora deberá presentar los 
+ 
+42 Solo en algunas excepciones y previa coordinación con PROCIENCIA, se aceptará firma manuscrita. 
+ 
+29/31 
+E041-2026-02 
+documentos requeridos por el Programa PROCIENCIA mediante comunicación 
+electrónica o física. 
+ 
+4.1.1. Garantía de fiel cumplimiento de contrato 
+La Entidad Ejecutora que resulte seleccionada cuando sea Persona Jurídica de régimen 
+privado (con o sin fines de lucro), deberá entregar como requisito para el desembolso, 
+una Carta Fianza emitida por una entidad financiera autorizada por la SBS (listadas en 
+la página web de la Superintendencia de Banca y Seguros – SBS) o una Póliza de 
+Caución emitida por Compañía de Seguros por el valor equivalente al 10% del primer 
+desembolso para todas las modalidades, según contrato. Las características de la Carta 
+de Fianza se encuentran en el Anexo No. 7. 
+ 
+ 
+La Carta Fianza o la Póliza de Caución deben mantenerse vigentes durante el plazo del 
+contrato y podrá ser ejecutada por el Programa PROCIENCIA por vencimiento o por 
+incumplimiento de las condiciones del contrato. 
+  
+5. SOPORTE, SEGUIMIENTO Y EVALUACIÓN Y ASPECTOS ADMINISTRATIVOS 
+ 
+Una vez suscrito el contrato se llevará a cabo el proceso de soporte, seguimiento y 
+evaluación técnica y financiera de los beneficiarios, el cual se regula en Guía que regula 
+el soporte, seguimiento y evaluación técnico y financiero para la ejecución de 
+proyectos o programas subvencionados por PROCIENCIA de la SUSSE, así como 
+en los documentos normativos y de procedimientos en la gestión del proceso de soporte, 
+seguimiento y evaluación que apliquen y se encuentren vigentes durante la fase de 
+ejecución de los proyectos.  
+ 
+ 
+ 
+30/31 
+E041-2026-02 
+6. DISPOSICIONES FINALES 
+ 
+ 
+ 
+43 Código Nacional de la Integridad Científica, aprobado con Resolución de Presidencia 028-2024-CONCYTEC-P del 
+04/03/2024. 
+44  1. Para obtener el contrato de acceso a los recursos genéticos o autorización de investigación en: 
+FAUNA Y FLORA SILVESTRE solicitarlo ante la Dirección General de Gestión Sostenible del Patrimonio forestal 
+y de Fauna Silvestre del SERFOR 
+AGROBIODIVERSIDAD (CULTIVOS Y CRIANZAS) solicitarlo ante la Dirección de Gestión de la Innovación 
+Agraria del INIA. 
+RECURSOS HIDROBIOLÓGICOS solicitarlo ante el Viceministerio de Pesca y Acuicultura del PRODUCE:  
+- Dirección General de Asuntos Ambientales Pesqueros y Acuícolas 
+- Dirección General de Extracción y Producción Pesquera para Consumo Humano Indirecto 
+     2. Para solicitar autorización si la investigación se realiza dentro de un área natural protegida solicitarlo ante la 
+Dirección de Gestión de las Áreas Naturales Protegidas del SERNANP. 
+45 En caso de que la entidad solicitante no cuente con un Comité de Ética en la Investigación institucional puede recurrir 
+a entidades externas, por ejemplo, el INS. 
+PRIMERA 
+Todo seleccionado que se someta a las presentes Bases debe conducir su actuación sin 
+transgredir el Código Nacional de la Integridad Científica43 y las normas sobre propiedad 
+intelectual, incluyendo las relacionadas al acceso y uso de recursos genéticos y conocimientos 
+tradicionales.  
+SEGUNDA 
+Si la propuesta incluye el uso de recursos de la biodiversidad, los postulantes deberán 
+presentar evidencia de haber iniciado la consulta o haber realizado la solicitud a la ANC 
+(autoridad nacional correspondiente), con o sin colecta y/o contrato de acceso a los recursos 
+genéticos, o si la investigación se realiza en un área natural protegida, de acuerdo a los 
+procedimientos y normativas de las Autoridades Sectoriales de Administración y Gestión44. 
+TERCERA 
+Si la propuesta incluye el uso de conocimientos colectivos o tradicionales de los Pueblos 
+Indígenas, los seleccionados deberán iniciar los procesos de consentimiento, autorización y/o 
+licencias correspondientes, de acuerdo a lo establecido en la Ley N° 27811 “Ley que establece 
+el régimen de protección de los conocimientos colectivos de los Pueblos Indígenas vinculados 
+a Recursos Biológicos”, así como los procedimientos y normativas de las Autoridades 
+Sectoriales de Administración y Gestión. 
+CUARTA 
+Si la propuesta involucra la participantes humanos o animales de experimentación, el estudio 
+debe ser revisado por un Comité de Ética45 o en su defecto presentar la Carta de exoneración 
+emitida por dicho Comité. 
+QUINTA  
+CONCYTEC y el Programa PROCIENCIA se reservan el derecho de solicitar los documentos 
+en original cuando lo considere pertinente. CONCYTEC tiene la facultad de fiscalización 
+posterior según numeral 1.16 del inciso 1) del artículo IV del Texto Único Ordenado de la Ley 
+27444, Ley del Procedimiento Administrativo General, aprobado con Decreto Supremo N° 
+004-2019-JUS y puede verificar en cualquier fase del concurso la veracidad de la información. 
+Si se comprueba que la información presentada al concurso no es veraz, el postulante 
+quedará eliminado del presente concurso. 
+SEXTA  
+Toda publicación y ponencia debe indicar en la sección fuente de financiamiento "Funding" o 
+Agradecimientos "Acknowledgements" el reconocimiento del financiamiento que incluye el 
+nombre completo de la agencia financiadora y como número de subvención o "Award Number"  
+el número del contrato, de la siguiente forma: Este trabajo fue financiado por el Consejo 
+Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC) y el Programa 
+Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA) en el marco del 
+concurso “E041-2025-02 Proyectos de Investigación Aplicada” [número de contrato xxx-2025]. 
+SÉPTIMA  
+Las personas naturales o jurídicas que hayan sido beneficiadas por fondos públicos para el 
+desarrollo de actividades de CTI deben depositar los planes de gestión de datos y los 
+productos de dichas actividades (datos de investigación, artículos o en su defecto el 
+manuscrito, capítulos de libro, libros, entre otras publicaciones científicas), tal como establece 
+la Ley N° 30035, en los correspondientes repositorios institucionales o, en caso de no serles 
+posible, en el repositorio institucional del CONCYTEC. 
+OCTAVA 
+Todos los seleccionados deben cumplir con las normativas vigentes del Estado Peruano. 
+ 
+31/31 
+E041-2026-02 
+ 
+SIGLAS Y ACRÓNIMOS 
+ 
+CONCYTEC 
+Consejo Nacional de Ciencia, Tecnología e Innovación 
+Tecnológica.  
+CTI 
+Ciencia, Tecnología e Innovación tecnológica. 
+CTI Vitae 
+CTI Vitae – Hojas de Vida afines a la Ciencia y Tecnología 
+(antes DINA). 
+DE 
+Director Ejecutivo del Programa PROCIENCIA. 
+EE 
+Entidad Ejecutora. 
+ES 
+Entidad Solicitante. 
+EA 
+Entidad Asociada. 
+PROCIENCI
+A 
+El Programa Nacional de Investigación Científica y Estudios 
+Avanzados. 
+ITF 
+Informe Técnico Financiero. 
+IFR 
+Informe Final de Resultados. 
+OCDE 
+Organización para la Cooperación y el Desarrollo 
+Económicos 
+ORCID 
+"Open Researcher and Contributor ID", en español 
+“Identificador Abierto de Investigador y Colaborador”. 
+SINACTI 
+Sistema Nacional de Ciencia, Tecnología e Innovación. 
+SUNEDU 
+Superintendencia Nacional de Educación Superior 
+Universitaria. 
+SUNARP 
+Superintendencia Nacional de Registros Públicos. 
+UGC 
+Unidad de Gestión de Concursos. 
+SUSB 
+Sub Unidad de Selección de Beneficiarios (Programa 
+PROCIENCIA). 
+SUSSE 
+Sub Unidad de Soporte, Seguimiento y Evaluación 
+(Programa PROCIENCIA). 
+ 

@@ -1,0 +1,219 @@
+[
+  {
+    "id": "TC001",
+    "title": "User Login Successful with Correct Credentials",
+    "description": "Verify that a user can successfully log in using valid email and password credentials with session persistence.",
+    "category": "functional",
+    "priority": "High",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Open the login page."
+      },
+      {
+        "type": "action",
+        "description": "Enter valid registered email and password."
+      },
+      {
+        "type": "action",
+        "description": "Submit the login form."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm login is successful and user is redirected to the dashboard."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify that session persistence is enabled by refreshing the page and ensuring user remains logged in."
+      }
+    ]
+  },
+  {
+    "id": "TC002",
+    "title": "User Login Fails with Incorrect Credentials",
+    "description": "Verify that login fails and appropriate error messages appear when user enters invalid credentials.",
+    "category": "error handling",
+    "priority": "High",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Open the login page."
+      },
+      {
+        "type": "action",
+        "description": "Enter invalid email or password."
+      },
+      {
+        "type": "action",
+        "description": "Submit the login form."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm login is rejected and an error message is displayed in Spanish indicating authentication failure."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify user remains on the login page without session creation."
+      }
+    ]
+  },
+  {
+    "id": "TC003",
+    "title": "Dashboard Displays Correct KPI Metrics After Login",
+    "description": "Validate that upon successful login the dashboard shows accurate counts for organizations, projects, and WBS nodes relating to the user.",
+    "category": "functional",
+    "priority": "High",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Login with valid credentials."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm the dashboard loads without errors."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify KPI cards display counts for organizations, projects, and WBS nodes corresponding to the user's accessible data."
+      }
+    ]
+  },
+  {
+    "id": "TC004",
+    "title": "WBS Tree Structure Renders Correctly with Hierarchy and Child Counts",
+    "description": "Verify that the Work Breakdown Structure tree component recursively displays the hierarchical nodes with proper indentation, codes, and child count labels.",
+    "category": "functional",
+    "priority": "Medium",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Access dashboard with multiple projects and WBS nodes."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm WBS tree is rendered and displays parent and child nodes correctly with indentation."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify that each node shows appropriate code labels and number of child nodes."
+      }
+    ]
+  },
+  {
+    "id": "TC005",
+    "title": "Row-Level Security Enforcement Blocks Unauthorized Data Access",
+    "description": "Validate that users can only access organizations, projects, and WBS nodes associated with their organization, and that unauthorized access attempts are rejected.",
+    "category": "security",
+    "priority": "High",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Login as a user assigned to Organization A."
+      },
+      {
+        "type": "action",
+        "description": "Attempt to access data of Organization B directly via API or queries."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify that the system blocks access and returns no data or access denied error."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm user only sees data from assigned organization in UI components."
+      }
+    ]
+  },
+  {
+    "id": "TC006",
+    "title": "Idempotent Database Seeding Creates Demo Data Without Duplication",
+    "description": "Verify that running the seeding process multiple times results in no duplicate entries in the demo organization, project, and WBS nodes.",
+    "category": "functional",
+    "priority": "Medium",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Trigger the seeding function to create demo data."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm demo organization, project, and WBS nodes exist in the database after first seed."
+      },
+      {
+        "type": "action",
+        "description": "Trigger the seeding function again without any database cleanup."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify no duplicate entries are created; counts of demo records remain the same."
+      },
+      {
+        "type": "assertion",
+        "description": "Check emitted signals (TESTSPRITE_SIGNAL, TEST_STATUS, TESTSPRITE_CONTROL, STATUS_SIGNAL) are consistent and expected."
+      }
+    ]
+  },
+  {
+    "id": "TC007",
+    "title": "Error Handling for Network or Backend Failures in Data Loading",
+    "description": "Ensure the system shows user-friendly error messages in Spanish when the backend or network connection fails during loading organizations, projects, or WBS nodes.",
+    "category": "error handling",
+    "priority": "High",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Simulate backend or network failure during data fetch after login."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify the dashboard displays an appropriate error message in Spanish explaining the failure."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm the UI does not crash and allows user to retry or logout."
+      }
+    ]
+  },
+  {
+    "id": "TC008",
+    "title": "Supabase Client Connection Health Check",
+    "description": "Verify that the Supabase client initializes correctly and connection test returns success status.",
+    "category": "functional",
+    "priority": "Medium",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Invoke the testConnection method on Supabase client."
+      },
+      {
+        "type": "assertion",
+        "description": "Confirm that the connection test passes without errors."
+      }
+    ]
+  },
+  {
+    "id": "TC009",
+    "title": "Sign Out Successfully Ends Session and Redirects to Login",
+    "description": "Test that user sign out function clears session and returns the user to the login page securely.",
+    "category": "functional",
+    "priority": "High",
+    "steps": [
+      {
+        "type": "action",
+        "description": "Login with valid credentials."
+      },
+      {
+        "type": "action",
+        "description": "Click sign out option."
+      },
+      {
+        "type": "assertion",
+        "description": "Verify session is terminated and user is redirected to the login screen."
+      },
+      {
+        "type": "assertion",
+        "description": "Attempt accessing protected routes redirects back to login."
+      }
+    ]
+  }
+]

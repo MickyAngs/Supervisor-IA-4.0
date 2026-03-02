@@ -1,0 +1,18 @@
+{
+  "status": "commited",
+  "type": "frontend",
+  "scope": "codebase",
+  "localEndpoint": "http://localhost:5173",
+  "loginUser": "superultravito0305@gmail.com",
+  "loginPassword": "VICTOR0305",
+  "executionArgs": {
+    "projectName": "Supervisor IA 4.0",
+    "projectPath": "c:\\Users\\Víctor Angulo\\Supervisor-IA-4.0\\Supervisor IA 4.0",
+    "testIds": [],
+    "additionalInstruction": "Focus on testing the login page at /login route. The login form has email/password fields. After login, verify dashboard loads and look for TESTSPRITE signals in console.",
+    "envs": {
+      "API_KEY": "sk-user-YDY8MRN-t6sUmi_AwQy70HkZgWKrZ7aq4HeZR-WaijJAvwoNmQ2hbMAJ0kQQR_fEUpWhFVufPl01LYWzs6cSUbKsu6OpDJVV5UKQPuqEE_rO5wSx0kwdc-TC_l3Ojz7BOxw"
+    }
+  },
+  "proxy": "http://657824e7-f2c6-4e86-b2dc-f0c1bbb7bf8e:d8Yzf9v4ICICkEtnGq8Gb0jJCbVf9Pe3@tun.testsprite.com:8080"
+}

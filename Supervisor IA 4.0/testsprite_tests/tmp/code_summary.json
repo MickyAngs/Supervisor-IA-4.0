@@ -1,0 +1,86 @@
+{
+    "tech_stack": [
+        "TypeScript",
+        "React 18",
+        "Vite 7",
+        "Supabase (Database + Auth + RLS)",
+        "TailwindCSS",
+        "Lucide React Icons",
+        "React Router"
+    ],
+    "features": [
+        {
+            "name": "Authentication System",
+            "description": "Complete login flow with Supabase Auth. Includes email/password authentication, session persistence, and protected routes. Displays login form with validation and error handling.",
+            "files": [
+                "src/react-app/pages/Login.tsx",
+                "src/lib/supabase.ts"
+            ]
+        },
+        {
+            "name": "Supabase Client",
+            "description": "Singleton Supabase client with Database typing, authentication support, session management, and connection testing. Exports getCurrentUser, isAuthenticated, signOut, and testConnection functions.",
+            "files": [
+                "src/lib/supabase.ts"
+            ]
+        },
+        {
+            "name": "Construction Data Hook",
+            "description": "React hook (useConstructionData) for managing construction project data. Handles loading organizations, projects, and WBS nodes from Supabase with full RLS enforcement. Includes idempotent seeding functionality with existence guards.",
+            "files": [
+                "src/hooks/useConstructionData.ts"
+            ]
+        },
+        {
+            "name": "Dashboard View",
+            "description": "Main dashboard component displaying KPIs (organizations count, projects count, WBS nodes count), project list with status badges, and WBS tree structure. Handles authentication states, loading states, seeding states, and error displays with friendly messages.",
+            "files": [
+                "src/react-app/components/views/DashboardView.tsx"
+            ]
+        },
+        {
+            "name": "Idempotent Seed System",
+            "description": "Database seeding functionality that creates Demo GARES organization, Altos de Trujillo project, and WBS node structure. Uses existence guards (SELECT before INSERT) to prevent duplicate entries. Emits multiple signals: TESTSPRITE_SIGNAL, TEST_STATUS, TESTSPRITE_CONTROL, STATUS_SIGNAL.",
+            "files": [
+                "src/hooks/useConstructionData.ts"
+            ]
+        },
+        {
+            "name": "Row Level Security (RLS)",
+            "description": "TRL 7 multi-tenancy enforcement. Users can only access data from their assigned organization via get_user_org() PostgreSQL function. Blocks unauthenticated access completely.",
+            "files": [
+                "src/hooks/useConstructionData.ts",
+                "src/lib/supabase.ts"
+            ]
+        },
+        {
+            "name": "Type Definitions",
+            "description": "TypeScript types for Supabase database schema including Organization, Project, WBSNode, and complete Database interface with Row, Insert, Update types.",
+            "files": [
+                "src/shared/types.ts"
+            ]
+        },
+        {
+            "name": "KPI Cards Component",
+            "description": "Reusable KPI display component showing count metrics with icons and color themes (cyan, orange, green) for organizations, projects, and WBS nodes.",
+            "files": [
+                "src/react-app/components/views/DashboardView.tsx"
+            ]
+        },
+        {
+            "name": "WBS Tree Component",
+            "description": "Recursive tree component for displaying Work Breakdown Structure hierarchy with indentation, code labels, and child counts.",
+            "files": [
+                "src/react-app/components/views/DashboardView.tsx"
+            ]
+        },
+        {
+            "name": "Error Handling",
+            "description": "Comprehensive error handling for connection failures, authentication errors, RLS policy violations, and infrastructure configuration issues. Shows friendly messages in Spanish.",
+            "files": [
+                "src/react-app/components/views/DashboardView.tsx",
+                "src/hooks/useConstructionData.ts"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+﻿
+> supervisor-ia-4-0@0.0.0 build
+> tsc -b && vite build
+
+src/react-app/components/views/AuditoriaView.tsx(2,78): error TS6133: 'Download' is declared but its value is never read.

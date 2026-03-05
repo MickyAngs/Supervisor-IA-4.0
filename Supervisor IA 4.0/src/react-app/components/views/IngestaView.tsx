@@ -1,6 +1,6 @@
 import React, { useCallback, useState } from 'react';
 import { useDropzone } from 'react-dropzone';
-import { UploadCloud, FileBox, CheckCircle, AlertCircle, X, Loader2 } from 'lucide-react';
+import { UploadCloud, FileBox, CheckCircle, AlertCircle, X } from 'lucide-react';
 import { toast } from 'sonner';
 import { supabase } from '@/lib/supabase';
 
@@ -69,7 +69,7 @@ export default function IngestaView() {
             setUploadProgress(80);
 
             // 3. Register in Database
-            const { error: dbError } = await supabase
+            const { data: scanData, error: dbError } = await (supabase as any)
                 .from('spatial_scans')
                 .insert({
                     project_id: TEMP_PROJECT_ID,
@@ -81,11 +81,32 @@ export default function IngestaView() {
                         size: file.size,
                         type: file.type
                     }
-                });
+                })
+                .select(); // Need to select to get the ID back
 
-            if (dbError) {
+            if (dbError || !scanData || scanData.length === 0) {
                 // If DB insert fails, we might want to cleanup the storage, but for now we throw
-                throw new Error(`Database error: ${dbError.message}`);
+                throw new Error(`Database error: ${dbError?.message || 'Failed to insert'}`);
+            }
+
+            // 4. Trigger n8n Webhook
+            const webhookUrl = import.meta.env.VITE_N8N_WEBHOOK_URL || '';
+            if (webhookUrl) {
+                try {
+                    // We do this non-blocking to return fast to user
+                    fetch(webhookUrl, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            record: {
+                                id: scanData[0].id,
+                                tenant_id: TEMP_PROJECT_ID
+                            }
+                        })
+                    }).catch(err => console.error("Error triggering n8n webhook:", err));
+                } catch (webhookErr) {
+                    console.error("Critical error in webhook execution block:", webhookErr);
+                }
             }
 
             setUploadProgress(100);

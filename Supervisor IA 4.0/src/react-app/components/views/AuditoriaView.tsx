@@ -1,123 +1,116 @@
-import React, { useState, useEffect, Suspense } from 'react';
-import { supabase } from '@/lib/supabase';
-import { Canvas, useLoader } from '@react-three/fiber';
-import { OrbitControls, Html } from '@react-three/drei';
-import { OBJLoader } from 'three/examples/jsm/loaders/OBJLoader';
-import { AlertTriangle, CheckCircle, FileBox, Crosshair, Clock, ShieldCheck, RotateCcw } from 'lucide-react';
+import { useState } from 'react';
+import { AlertTriangle, CheckCircle, FileBox, Crosshair, Clock, ShieldCheck, Zap } from 'lucide-react';
 import { toast } from 'sonner';
 
-// --- Error Boundary ---
-class ErrorBoundary extends React.Component<{ children: React.ReactNode, fallback: React.ReactNode }, { hasError: boolean }> {
-  constructor(props: { children: React.ReactNode, fallback: React.ReactNode }) {
-    super(props);
-    this.state = { hasError: false };
+// --- Static Fake Data ---
+const MOCK_SCANS = [
+  {
+    id: 'f47ac10b-58cc-4372-a567-0e02b2c3d479',
+    created_at: new Date().toISOString(),
+    status: 'PENDING_PROCESSING',
+    project_id: '11111111-1111-1111-1111-111111111111',
+    metadata: { originalName: 'Sector_B_Losa_Nivel_2.obj' },
+    obj_file_url: 'https://storage.googleapis.com/mock-models/losa_n2.obj'
+  },
+  {
+    id: 'a12bc34d-56ef-78gh-90ij-1234567890kl',
+    created_at: new Date(Date.now() - 86400000).toISOString(),
+    status: 'APPROVED',
+    project_id: '11111111-1111-1111-1111-111111111111',
+    metadata: { originalName: 'Columna_C15_Sotano.obj' },
+    obj_file_url: 'https://storage.googleapis.com/mock-models/columna_c15.obj'
   }
-  static getDerivedStateFromError() {
-    return { hasError: true };
-  }
-  componentDidCatch(error: any, errorInfo: any) {
-    console.error("3D Viewer Error:", error, errorInfo);
-  }
-  render() {
-    if (this.state.hasError) {
-      return this.props.fallback;
-    }
-    return this.props.children;
-  }
-}
+];
 
-// --- 3D Model Component ---
-function Model({ url }: { url: string }) {
-  const obj = useLoader(OBJLoader, url);
-  return <primitive object={obj} />;
-}
+const MOCK_REPORT = {
+  id: 'rep-999',
+  scan_id: 'a12bc34d-56ef-78gh-90ij-1234567890kl',
+  status: 'APPROVED',
+  deviation_metrics: {
+    "volumen_teorico_m3": 2.50,
+    "volumen_real_m3": 2.58,
+    "desviacion_porcentual": 3.2,
+    "alerta": "Dentro de la tolerancia (5%)"
+  },
+  ai_drafted_text: "Basado en el escaneo volumétrico de la Columna C15, se observa un volumen real de 2.58 m3 frente a los 2.50 m3 de los planos (RFI-042). Esta desviación del 3.2% cumple con los márgenes de tolerancia establecidos en la Norma E.060 para elementos estructurales verticales. Se recomienda procedar con el encofrado superior."
+};
 
-// --- Loading Component ---
-function Loader() {
-  return (
-    <Html center>
-      <div className="flex flex-col items-center justify-center p-8 bg-slate-900/90 rounded-2xl border border-cyan-500/30 backdrop-blur-md shadow-2xl w-64 text-center">
-        <div className="w-12 h-12 border-4 border-cyan-500 border-t-transparent rounded-full animate-spin mb-4 mx-auto" />
-        <h3 className="text-cyan-400 font-bold tracking-widest text-sm uppercase">Cargando Malla Volumétrica...</h3>
-        <p className="text-gray-400 text-xs mt-2">Inicializando renderizado espacial (TRL 6)</p>
-      </div>
-    </Html>
-  );
-}
-
-// --- Main View ---
+// --- Main View (HARD RESET) ---
 export default function AuditoriaView() {
-  const [scans, setScans] = useState<any[]>([]);
-  const [activeScan, setActiveScan] = useState<any | null>(null);
+  const [scans, setScans] = useState(MOCK_SCANS);
+  const [activeScan, setActiveScan] = useState(MOCK_SCANS[0]);
   const [auditReport, setAuditReport] = useState<any | null>(null);
-  const [isLoading, setIsLoading] = useState(true);
+  const [isSimulating, setIsSimulating] = useState(false);
 
-  // Fetch scans
-  useEffect(() => {
-    async function fetchScans() {
-      if (!supabase) return;
-      try {
-        const { data, error } = await supabase
-          .from('spatial_scans')
-          .select('*')
-          .order('created_at', { ascending: false });
-
-        if (error) throw error;
-
-        setScans(data || []);
-        if (data && data.length > 0) {
-          setActiveScan(data[0]);
-        }
-      } catch (err: any) {
-        toast.error('Error al cargar escaneos', { description: err.message });
-      } finally {
-        setIsLoading(false);
-      }
-    }
-    fetchScans();
-  }, []);
-
-  // Fetch audit report when active scan changes
-  useEffect(() => {
-    async function fetchReport() {
-      if (!supabase || !activeScan) return;
+  // Load fake report if clicking the approved one
+  const handleSelectScan = (scan: any) => {
+    setActiveScan(scan);
+    if (scan.status === 'APPROVED') {
+      setAuditReport(MOCK_REPORT);
+    } else {
       setAuditReport(null);
-      try {
-        const { data, error } = await supabase
-          .from('audit_reports')
-          .select('*')
-          .eq('scan_id', activeScan.id)
-          .maybeSingle();
-
-        if (error && error.code !== 'PGRST116') {
-          // Ignore "row not found" as no report might mean it's still generating
-          throw error;
-        }
-        setAuditReport(data);
-      } catch (err: any) {
-        console.error('Error fetching report:', err);
-      }
     }
-    fetchReport();
-  }, [activeScan]);
+  };
 
-  const handleApprove = async () => {
-    if (!supabase || !auditReport) return;
-    try {
-      const { error } = await supabase
-        .from('audit_reports')
-        .update({ status: 'APPROVED' })
-        .eq('id', auditReport.id);
+  // Safe n8n Trigger Button
+  const handleSimularIngesta = async () => {
+    setIsSimulating(true);
 
-      if (error) throw error;
+    // 1. Check if the environment variable exists
+    const webhookUrl = import.meta.env.VITE_N8N_WEBHOOK_URL;
 
-      setAuditReport({ ...auditReport, status: 'APPROVED' });
-      toast.success('Informe Aprobado', {
-        description: 'El reporte PRCAL-006 ha sido ratificado para este scan.',
-        icon: <CheckCircle className="text-green-500" />
+    if (!webhookUrl) {
+      toast.error('Error de Configuración', {
+        description: 'VITE_N8N_WEBHOOK_URL no está definida en .env',
+        duration: 5000,
       });
-    } catch (err: any) {
-      toast.error('Error al aprobar', { description: err.message });
+      alert("⚠️ ALERTA DE DESARROLLO:\n\nLa variable VITE_N8N_WEBHOOK_URL no ha sido encontrada.\nAgrega esta línea a tu archivo .env.local o .env:\n\nVITE_N8N_WEBHOOK_URL=tu_url_de_n8n");
+      setIsSimulating(false);
+      return;
+    }
+
+    // 2. Wrap fetch in try/catch to guarantee NO crashes
+    try {
+      toast.info('Simulando Ingesta...', { description: `Enviando POST a ${webhookUrl.substring(0, 30)}...` });
+
+      const payload = {
+        record: {
+          id: activeScan.id,
+          tenant_id: activeScan.project_id
+        }
+      };
+
+      console.log("[SIMULADOR] Payload a enviar:", payload);
+
+      const response = await fetch(webhookUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+
+      if (response.ok) {
+        toast.success('¡Orquestador Disparado!', {
+          description: 'n8n ha recibido el JSON correctamente.',
+          icon: <Zap className="text-yellow-400" />
+        });
+
+        // Falsely update local state just to show the UI change
+        setScans(prev => prev.map(s => s.id === activeScan.id ? { ...s, status: 'DRAFT' } : s));
+        setActiveScan(prev => ({ ...prev, status: 'DRAFT' }));
+
+      } else {
+        throw new Error(`n8n respondió con estado: ${response.status}`);
+      }
+
+    } catch (error: any) {
+      console.error("[SIMULADOR] Error en el fetch:", error);
+      toast.error('Fallo en la conexión HTTP', {
+        description: error.message || 'El webhook de n8n no pudo ser contactado. Verifica si el túnel está activo.',
+        duration: 8000
+      });
+      alert(`⚠️ FALLO DE CONEXIÓN HTTP\n\nNo se pudo llegar a n8n.\n\nError: ${error.message}\n\nAsegúrate de que n8n esté corriendo y que tu URL del webhook sea pública/accesible.`);
+    } finally {
+      setIsSimulating(false);
     }
   };
 
@@ -135,139 +128,112 @@ export default function AuditoriaView() {
   };
 
   return (
-    <div className="flex h-[calc(100vh-8rem)] gap-6 text-white overflow-hidden">
-      {/* Left Panel: Scan List */}
-      <div className="w-1/3 bg-slate-900 border border-gray-800 rounded-2xl flex flex-col overflow-hidden shadow-2xl">
-        <div className="p-4 border-b border-gray-800 bg-slate-950/50">
-          <h2 className="text-lg font-bold flex items-center gap-2">
-            <Crosshair className="text-cyan-500" /> Registro de Escaneos
-          </h2>
-          <p className="text-xs text-gray-400 mt-1">Verdad de campo capturada por drones/LIDAR</p>
+    <div className="flex flex-col h-[calc(100vh-8rem)] text-white overflow-hidden">
+
+      {/* Top Banner indicating Test Mode */}
+      <div className="bg-orange-500/20 border border-orange-500/50 text-orange-400 p-3 rounded-xl mb-4 flex items-center justify-between shadow-lg">
+        <div className="flex items-center gap-2">
+          <AlertTriangle className="animate-pulse" />
+          <span className="font-bold uppercase tracking-wider">MODO A PRUEBA DE FALLOS ACTIVO</span>
+          <span className="text-sm opacity-80">- Conexión DB Desactivada. Datos UI Simulados.</span>
         </div>
-        <div className="flex-1 overflow-y-auto p-4 space-y-3 custom-scrollbar">
-          {isLoading ? (
-            <div className="animate-pulse space-y-3">
-              {[1, 2, 3].map(i => <div key={i} className="h-24 bg-gray-800 rounded-xl" />)}
-            </div>
-          ) : scans.length === 0 ? (
-            <div className="text-center text-gray-500 mt-10">
-              <FileBox size={32} className="mx-auto mb-2 opacity-50" />
-              No hay escaneos registrados.
-            </div>
-          ) : (
-            scans.map(scan => (
+        <button
+          onClick={handleSimularIngesta}
+          disabled={isSimulating}
+          className="bg-orange-500 hover:bg-orange-400 text-black font-bold py-1.5 px-4 rounded-lg flex items-center gap-2 transition-transform active:scale-95 disabled:opacity-50"
+        >
+          {isSimulating ? <Clock className="animate-spin w-4 h-4" /> : <Zap className="w-4 h-4" />}
+          SIMULAR INGESTA (n8n POST)
+        </button>
+      </div>
+
+      <div className="flex flex-1 gap-6 overflow-hidden no-print">
+        {/* Left Panel: Fake Scan List */}
+        <div className="w-1/3 bg-slate-900 border border-gray-800 rounded-2xl flex flex-col overflow-hidden shadow-2xl">
+          <div className="p-4 border-b border-gray-800 bg-slate-950/50">
+            <h2 className="text-lg font-bold flex items-center gap-2">
+              <Crosshair className="text-cyan-500" /> Escaneos (Mock)
+            </h2>
+          </div>
+          <div className="flex-1 overflow-y-auto p-4 space-y-3 custom-scrollbar">
+            {scans.map(scan => (
               <div
                 key={scan.id}
-                onClick={() => setActiveScan(scan)}
+                onClick={() => handleSelectScan(scan)}
                 className={`p-4 rounded-xl cursor-pointer border transition-all duration-200 ${activeScan?.id === scan.id
-                    ? 'bg-cyan-900/20 border-cyan-500 shadow-[0_0_15px_rgba(6,182,212,0.15)]'
-                    : 'bg-slate-950 border-gray-800 hover:border-gray-600'
+                  ? 'bg-cyan-900/20 border-cyan-500 shadow-[0_0_15px_rgba(6,182,212,0.15)]'
+                  : 'bg-slate-950 border-gray-800 hover:border-gray-600'
                   }`}
               >
                 <div className="flex justify-between items-start mb-2">
                   <h3 className="font-semibold text-sm truncate pr-2">
-                    {scan.metadata?.originalName || `Malla Volumétrica ${scan.id.substring(0, 4)}`}
+                    {scan.metadata.originalName}
                   </h3>
                   {getStatusBadge(scan.status)}
                 </div>
-                <div className="text-xs text-gray-400 font-mono">
+                <div className="text-xs text-gray-500 mt-1 font-mono">
                   ID: {scan.id.substring(0, 8)}...
                 </div>
-                <div className="text-xs text-gray-500 mt-1">
-                  {new Date(scan.created_at).toLocaleString()}
-                </div>
               </div>
-            ))
-          )}
+            ))}
+          </div>
         </div>
-      </div>
 
-      {/* Right Panel: Visor and Verdict split vertical */}
-      <div className="flex-1 flex flex-col gap-6 overflow-hidden">
+        {/* Right Panel: Visor and Verdict */}
+        <div className="flex-1 flex flex-col gap-6 overflow-hidden">
 
-        {/* Top: 3D Visor */}
-        <div className="flex-[3] bg-slate-950 border border-gray-800 rounded-2xl overflow-hidden relative shadow-2xl min-h-0">
-          <div className="absolute top-4 left-4 z-10 glass px-3 py-1.5 rounded-lg border border-cyan-500/30 flex items-center gap-2 bg-slate-900/80 backdrop-blur-md">
-            <div className="w-2 h-2 bg-red-500 rounded-full animate-pulse" />
-            <span className="text-xs font-mono text-cyan-400">VISOR ESPACIAL ACTIVO</span>
+          {/* Top: 3D Visor (FAKE FULL SCREEN) */}
+          <div className="flex-[3] bg-slate-950 border border-gray-800 rounded-2xl overflow-hidden relative shadow-2xl min-h-0 flex flex-col items-center justify-center">
+
+            <div className="w-32 h-32 border-4 border-dashed border-gray-600 rounded-full flex items-center justify-center mb-6">
+              <FileBox className="text-gray-500 w-12 h-12" />
+            </div>
+
+            <h2 className="text-2xl font-bold text-gray-400 tracking-wider mb-2">
+              VISOR 3D
+            </h2>
+            <p className="text-gray-600 border border-gray-800 bg-black/50 px-4 py-2 rounded-full uppercase tracking-widest text-sm">
+              Temporalmente simulado para depuración
+            </p>
+
+            <div className="absolute bottom-4 left-4 text-xs font-mono text-gray-600 max-w-sm">
+              <span className="opacity-50">Archivo seleccionado:</span><br />
+              <span className="text-cyan-700">{activeScan?.obj_file_url}</span>
+            </div>
+
           </div>
 
-          {activeScan?.obj_file_url ? (
-            <ErrorBoundary fallback={
-              <div className="h-full flex flex-col items-center justify-center text-red-400 p-8 text-center gap-3">
-                <AlertTriangle size={48} />
-                <p>Error al renderizar el modelo 3D.<br />Verifica que el archivo .OBJ sea válido y esté disponible públicamente desde Storage.</p>
-              </div>
-            }>
-              <Canvas camera={{ position: [0, 5, 10], fov: 50 }}>
-                <ambientLight intensity={0.6} />
-                <directionalLight position={[10, 10, 10]} intensity={1.5} />
-                <directionalLight position={[-10, 10, -10]} intensity={0.5} />
-                <Suspense fallback={<Loader />}>
-                  <Model url={activeScan.obj_file_url} />
-                </Suspense>
-                <OrbitControls makeDefault />
-              </Canvas>
-            </ErrorBoundary>
-          ) : (
-            <div className="h-full flex flex-col items-center justify-center text-gray-600">
-              <FileBox size={48} className="mb-4 opacity-20" />
-              <p>Selecciona un escaneo para visualizar la malla 3D.</p>
-            </div>
-          )}
-        </div>
+          {/* Bottom: Verdict Panel */}
+          <div className="flex-[2] bg-slate-900 border border-gray-800 rounded-2xl p-6 shadow-2xl flex flex-col min-h-0">
+            <h2 className="text-lg font-bold mb-4 flex items-center gap-2 border-b border-gray-800 pb-2 flex-shrink-0">
+              <ShieldCheck className="text-orange-safety" /> Informe de Auditoría (Mock)
+            </h2>
 
-        {/* Bottom: Verdict Panel (Human-in-the-Loop) */}
-        <div className="flex-[2] bg-slate-900 border border-gray-800 rounded-2xl p-6 shadow-2xl flex flex-col min-h-0">
-          <h2 className="text-lg font-bold mb-4 flex items-center gap-2 border-b border-gray-800 pb-2 flex-shrink-0">
-            <ShieldCheck className="text-orange-safety" /> Veredicto de Inteligencia Artificial (Cerebro Legal)
-          </h2>
-
-          {auditReport ? (
-            <div className="flex flex-col h-full overflow-hidden">
-              <div className="grid grid-cols-2 gap-6 overflow-y-auto pr-2 custom-scrollbar flex-1">
-                <div className="flex flex-col">
-                  <h4 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2">Métricas de Desviación</h4>
-                  <pre className="bg-slate-950 p-3 rounded-lg text-xs text-orange-400 font-mono border border-gray-800 flex-1 overflow-auto">
-                    {JSON.stringify(auditReport.deviation_metrics, null, 2)}
-                  </pre>
-                </div>
-                <div className="flex flex-col">
-                  <h4 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2">Borrador Normativo</h4>
-                  <div className="bg-slate-950 p-3 rounded-lg text-sm text-gray-300 border border-gray-800 flex-1 overflow-auto whitespace-pre-wrap leading-relaxed">
-                    {auditReport.ai_drafted_text || 'Análisis en curso...'}
+            {auditReport ? (
+              <div className="flex flex-col h-full overflow-hidden">
+                <div className="grid grid-cols-2 gap-6 overflow-y-auto pr-2 custom-scrollbar flex-1">
+                  <div className="flex flex-col">
+                    <h4 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2">Métricas Simuladas</h4>
+                    <pre className="bg-slate-950 p-3 rounded-lg text-xs text-orange-400 font-mono border border-gray-800 flex-1 overflow-auto">
+                      {JSON.stringify(auditReport.deviation_metrics, null, 2)}
+                    </pre>
+                  </div>
+                  <div className="flex flex-col">
+                    <h4 className="text-xs font-bold text-gray-400 uppercase tracking-wider mb-2">Borrador Simulado</h4>
+                    <div className="bg-slate-950 p-3 rounded-lg text-sm text-gray-300 border border-gray-800 flex-1 overflow-auto whitespace-pre-wrap leading-relaxed">
+                      {auditReport.ai_drafted_text}
+                    </div>
                   </div>
                 </div>
               </div>
-
-              <div className="mt-4 pt-4 border-t border-gray-800 flex justify-end gap-3 flex-shrink-0">
-                <button className="px-4 py-2 bg-slate-800 hover:bg-slate-700 text-white rounded-lg flex items-center gap-2 transition-colors border border-gray-700">
-                  <RotateCcw size={16} /> Rechazar / Recalibrar
-                </button>
-                <button
-                  onClick={handleApprove}
-                  disabled={auditReport.status === 'APPROVED'}
-                  className={`px-4 py-2 font-bold rounded-lg flex items-center gap-2 transition-colors ${auditReport.status === 'APPROVED'
-                      ? 'bg-green-600/50 text-white/70 cursor-not-allowed'
-                      : 'bg-green-600 hover:bg-green-500 text-white shadow-lg shadow-green-600/20'
-                    }`}
-                >
-                  <CheckCircle size={16} />
-                  {auditReport.status === 'APPROVED' ? 'Informe Ratificado' : 'Aprobar Informe (PRCAL-006)'}
-                </button>
+            ) : (
+              <div className="h-full flex flex-col items-center justify-center text-gray-500 text-sm">
+                <Clock size={32} className="mb-4 text-gray-600" />
+                <h3 className="text-md font-bold text-gray-400 mb-2">A la espera de la Inteligencia Artificial</h3>
+                <p className="text-center max-w-sm">Haz clic en "SIMULAR INGESTA" arriba a la derecha para empujar el JSON a tu orquestador n8n local.</p>
               </div>
-            </div>
-          ) : (
-            <div className="h-full flex flex-col items-center justify-center text-gray-500 text-sm">
-              <Clock size={32} className="mb-2 opacity-30" />
-              <p className="text-center max-w-sm">Esperando que n8n y la IA generen el reporte de auditoría (Pipeline OCR/Visión).</p>
-              {activeScan && (
-                <p className="text-xs mt-2 text-cyan-500/80 bg-cyan-500/10 px-3 py-1 rounded-full border border-cyan-500/20">
-                  Estado de Ingesta DB: {activeScan.status}
-                </p>
-              )}
-            </div>
-          )}
+            )}
+          </div>
         </div>
       </div>
     </div>

@@ -25,3 +25,31 @@ body {
   backdrop-filter: blur(12px);
   border: 1px solid rgba(226, 232, 240, 0.1);
 }
+
+/* Print utilities (Phase 4) */
+.print-only {
+  display: none;
+}
+
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .printable-report {
+    padding: 2cm;
+    font-family: 'Times New Roman', serif;
+    color: #000;
+    background: #fff;
+  }
+  @page {
+    margin: 1cm;
+    size: A4 portrait;
+  }
+}

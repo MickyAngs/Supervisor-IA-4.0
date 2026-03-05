@@ -6,7 +6,6 @@ import { mochaPlugins } from "@getmocha/vite-plugins";
 import { VitePWA } from "vite-plugin-pwa";
 
 export default defineConfig({
-  base: './',
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   plugins: [
     ...mochaPlugins(process.env as any),
